@@ -58,7 +58,7 @@
           "type": "popup",
           "settings": {
             "text": "Pop-up link text",
-            "page": ""
+            "page": "contact-us"
           }
         },
         "description": {
