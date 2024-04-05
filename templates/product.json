@@ -54,6 +54,13 @@
             "show_gift_card_recipient": true
           }
         },
+        "text_riU6eT": {
+          "type": "text",
+          "settings": {
+            "text": "Blablablabla",
+            "text_style": "body"
+          }
+        },
         "popup_GQzWDH": {
           "type": "popup",
           "settings": {
@@ -118,6 +125,7 @@
         "quantity_selector",
         "inventory_wk9Npi",
         "buy_buttons",
+        "text_riU6eT",
         "popup_GQzWDH",
         "description",
         "collapsible-row-0",
