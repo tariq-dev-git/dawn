@@ -73,9 +73,9 @@
       "new_window": "S'ouvre dans une nouvelle fenêtre.",
       "external": "Ouvre un site web externe."
     },
-    "loading": "Chargement en cours...",
+    "loading": "Chargement...",
     "skip_to_product_info": "Passer aux informations produits",
-    "total_reviews": "total des critiques",
+    "total_reviews": "Total des critiques",
     "star_reviews_info": "{{ rating_value }} sur {{ rating_max }} étoiles",
     "collapsible_content_title": "Contenu réductible",
     "complementary_products": "Produits complémentaires"
