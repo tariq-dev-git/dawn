@@ -2,22 +2,6 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
-    "171234055887ebf02c": {
-      "type": "apps",
-      "blocks": {
-        "trustz_payment_badge_iFGcWw": {
-          "type": "shopify:\/\/apps\/trustz\/blocks\/payment-badge\/539d151e-77d2-4b39-b20d-fbce59dc78c7",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "trustz_payment_badge_iFGcWw"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "newsletter_BapJJQ": {
       "type": "newsletter",
       "blocks": {
@@ -84,14 +68,14 @@
       ],
       "settings": {
         "color_scheme": "scheme-1",
-        "newsletter_enable": true,
+        "newsletter_enable": false,
         "newsletter_heading": "Subscribe to our emails",
         "enable_follow_on_shop": true,
         "show_social": true,
         "enable_country_selector": false,
         "enable_language_selector": false,
         "payment_enable": true,
-        "show_policy": false,
+        "show_policy": true,
         "margin_top": 48,
         "padding_top": 36,
         "padding_bottom": 36
@@ -99,7 +83,6 @@
     }
   },
   "order": [
-    "171234055887ebf02c",
     "newsletter_BapJJQ",
     "footer"
   ]
