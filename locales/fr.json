@@ -157,7 +157,7 @@
         "image_available": "L'image {{ index }} est maintenant disponible dans la galerie"
       },
       "view_full_details": "Afficher tous les détails",
-      "include_taxes": "Taxes incluses.",
+      "include_taxes": "Prix TTC",
       "shipping_policy_html": "<a href=\"{{ link }}\">Frais d'expédition<\/a> calculés à l'étape de paiement.",
       "choose_options": "Choisir des options",
       "choose_product_options": "Choisir des options pour {{ product_name }}",
