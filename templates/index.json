@@ -51,22 +51,11 @@
     "rich_text": {
       "type": "rich-text",
       "blocks": {
-        "button_YhPpwr": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
+            "heading": "ZenHomie, u're pleasure!",
+            "heading_size": "h0"
           }
         },
         "text": {
@@ -77,7 +66,6 @@
         }
       },
       "block_order": [
-        "button_YhPpwr",
         "heading",
         "text"
       ],
