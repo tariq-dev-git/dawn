@@ -530,5 +530,12 @@
       "expanded": "Formulaire de destinataire de carte-cadeau agrandi",
       "collapsed": "Formulaire de destinataire de carte-cadeau réduit"
     }
+  },
+  "shopify": {
+    "checkout": {
+      "payment_summary": {
+        "free_label": "Gratuite"
+      }
+    }
   }
 }
