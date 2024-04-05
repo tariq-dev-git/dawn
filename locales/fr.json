@@ -534,7 +534,7 @@
   "shopify": {
     "checkout": {
       "payment_summary": {
-        "free_label": "Gratuite"
+        "free_label": "Gratuit"
       }
     }
   }
