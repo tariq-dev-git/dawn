@@ -43,10 +43,29 @@
         "padding_top": 20,
         "padding_bottom": 20
       }
+    },
+    "1712341254f257be1c": {
+      "type": "apps",
+      "blocks": {
+        "lunachat_conversion_ai_chatbot_star_rating_wcjX9C": {
+          "type": "shopify:\/\/apps\/lunachat-conversion-ai-chatbot\/blocks\/star_rating\/39b9d4f3-15bc-4813-bbc5-26754512ef5a",
+          "settings": {
+            "product": "",
+            "colour": "#ff0000"
+          }
+        }
+      },
+      "block_order": [
+        "lunachat_conversion_ai_chatbot_star_rating_wcjX9C"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "announcement-bar",
-    "header"
+    "header",
+    "1712341254f257be1c"
   ]
 }
