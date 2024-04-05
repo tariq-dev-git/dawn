@@ -37,3 +37,9 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{{ og_title | escape }}">
 <meta name="twitter:description" content="{{ og_description | escape }}">
+
+{% comment %} Theme color {% endcomment %}
+{%- if settings.primary_color -%}
+<meta name="theme-color" content="{{ settings.primary_color }}">
+<meta name="msapplication-TileColor" content="{{ settings.primary_color }}">
+{%- endif -%}
