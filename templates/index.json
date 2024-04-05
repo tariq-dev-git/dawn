@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "When she wakes up, i tell her to buy me something on ZenHomie",
+            "heading": "When she wakes up, i tell her to buy me something on ZenHomie!",
             "heading_size": "h0"
           }
         },
@@ -14,7 +14,7 @@
           "type": "text",
           "settings": {
             "text": "Reminder: Keep your pets entertained",
-            "text_style": "body"
+            "text_style": "subtitle"
           }
         },
         "button": {
