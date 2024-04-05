@@ -10,8 +10,10 @@
       <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
     {%- endunless -%}
 
-    {% render 'head-meta' %}
-    {%- render 'head-seo' -%}
+     {%- liquid
+      render 'head-seo'
+      render 'head-metas'
+    -%}
 
     <script src="{{ 'constants.js' | asset_url }}" defer="defer"></script>
     <script src="{{ 'pubsub.js' | asset_url }}" defer="defer"></script>
