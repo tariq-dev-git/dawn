@@ -113,8 +113,9 @@
     "show_vendor": true,
     "show_cart_note": false,
     "cart_drawer_collection": "best-sellings",
+    "checkout_header_image": "shopify:\/\/shop_images\/planning-design-being-creative.jpg",
     "checkout_logo_image": "shopify:\/\/shop_images\/zen-homie-jpg.jpg",
-    "checkout_logo_position": "center",
+    "checkout_logo_position": "right",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
