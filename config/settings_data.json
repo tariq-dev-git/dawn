@@ -113,6 +113,7 @@
     "show_cart_note": false,
     "cart_drawer_collection": "best-sellings",
     "checkout_logo_image": "shopify:\/\/shop_images\/zen-homie-jpg.jpg",
+    "checkout_logo_position": "center",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
