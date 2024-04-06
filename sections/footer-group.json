@@ -12,6 +12,13 @@
             "menu": "liens"
           }
         },
+        "link_list_QTfX4b": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Liens",
+            "menu": "liens-1"
+          }
+        },
         "footer-1": {
           "type": "link_list",
           "settings": {
@@ -29,6 +36,7 @@
       },
       "block_order": [
         "footer-0",
+        "link_list_QTfX4b",
         "footer-1",
         "footer-2"
       ],
