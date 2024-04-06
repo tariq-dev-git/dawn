@@ -11,10 +11,18 @@
             "text": "Livraison gratuite en 48h",
             "link": ""
           }
+        },
+        "announcement_jjDVk6": {
+          "type": "announcement",
+          "settings": {
+            "text": "Transporteur Européen avec n° de suivi",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "announcement_jjDVk6"
       ],
       "settings": {
         "color_scheme": "",
