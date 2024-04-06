@@ -84,6 +84,7 @@
         "row_c6Lapz": {
           "type": "row",
           "settings": {
+            "image": "shopify:\/\/shop_images\/S4ae29271a95e4db1bb32667b3dbeb0f0B.webp",
             "caption": "Caption",
             "heading": "Row",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
@@ -94,6 +95,18 @@
         "row_N8NkE3": {
           "type": "row",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Sbb702914bdd445fa8d1c6c14d3fe0dc4x.webp",
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "row_WtXjrJ": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sa62e5b99c75e4a008816480723c842c7a.webp",
             "caption": "Caption",
             "heading": "Row",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
@@ -104,7 +117,8 @@
       },
       "block_order": [
         "row_c6Lapz",
-        "row_N8NkE3"
+        "row_N8NkE3",
+        "row_WtXjrJ"
       ],
       "settings": {
         "image_height": "medium",
@@ -176,29 +190,29 @@
         "image_VBJzt3": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/the-eiffel-tower-paris.jpg"
+            "image": "shopify:\/\/shop_images\/S41d0c8626fec4d369ea258c2ed7dd1fdM.webp"
           }
         },
-        "video_xdUkR9": {
-          "type": "video",
+        "image_jPwmkw": {
+          "type": "image",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-            "description": "Describe the video"
+            "image": "shopify:\/\/shop_images\/S78c954eaaf2946ada8640b64ebc60958p.webp"
           }
         },
         "image_yG8MT7": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Sf8378d8b8bf645e3a38c2d463b21834aL.webp"
           }
         }
       },
       "block_order": [
         "image_VBJzt3",
-        "video_xdUkR9",
+        "image_jPwmkw",
         "image_yG8MT7"
       ],
       "settings": {
-        "heading": "What a lovelies set of  stuffs (I need more stuffs)!",
+        "heading": "LOREM IPSUM LOREM IPSUM",
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
