@@ -32,13 +32,21 @@
             "text": "🇪🇺 Produits aux normes UE",
             "link": ""
           }
+        },
+        "announcement_9KMxmz": {
+          "type": "announcement",
+          "settings": {
+            "text": "📦 Emballages résistants et consolidées",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "announcement-bar-0",
         "announcement_jjDVk6",
         "announcement_wNiFQp",
-        "announcement_NQMQNz"
+        "announcement_NQMQNz",
+        "announcement_9KMxmz"
       ],
       "settings": {
         "color_scheme": "",
