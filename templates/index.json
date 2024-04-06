@@ -264,60 +264,7 @@
     },
     "multicolumn": {
       "type": "multicolumn",
-      "blocks": {
-        "column1": {
-          "type": "column",
-          "settings": {
-            "title": "We love this 📸",
-            "text": "<p>Our products are made for your entire satisfaction, we gather inspiration far  away at borders, for you to put them inside your dwellings.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_aw6CxE": {
-          "type": "column",
-          "settings": {
-            "title": "and that",
-            "text": "<p>We work with artist<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_UP4Ktn": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_jn7Xe7": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column1",
-        "column_aw6CxE",
-        "column_UP4Ktn",
-        "column_jn7Xe7",
-        "column3"
-      ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
