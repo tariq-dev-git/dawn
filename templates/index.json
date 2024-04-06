@@ -54,7 +54,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Lorem Ipsum",
+            "heading": "Le mobile pour les situations extrêmes",
             "heading_size": "h0"
           }
         },
@@ -85,19 +85,31 @@
           "type": "row",
           "settings": {
             "image": "shopify:\/\/shop_images\/S4ae29271a95e4db1bb32667b3dbeb0f0B.webp",
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Modèle X Pro",
+            "caption": "DESIGN",
+            "heading": "Tic-Tac",
+            "text": "<p>16 fond d'écrans par défaut avec la possibilité de placer celle de votre choix pour lire l'heure avec style, fallait y penser !<\/p>",
+            "button_label": "Voir les autres fonctions",
             "button_link": ""
           }
         },
         "row_7wk6zx": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/S98e156f8fb5e4ffc81d30ae242c0d7e6D.webp",
+            "caption": "Apparence",
+            "heading": "Deux modèles disponibles",
+            "text": "<p>Choisissez entre le modèle Tigre du Bengale ou Rouge Dragon !<\/p>",
+            "button_label": "Voir les modèles restants",
+            "button_link": ""
+          }
+        },
+        "row_geJam9": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/S78c954eaaf2946ada8640b64ebc60958p.webp",
+            "caption": "OBJECTIF",
+            "heading": "Appareil Photo et caméra de l'espace",
+            "text": "<p>Appraiel 24Mp avec caméra AI <\/p>",
             "button_label": "Button label",
             "button_link": ""
           }
@@ -106,10 +118,10 @@
           "type": "row",
           "settings": {
             "image": "shopify:\/\/shop_images\/Sbb702914bdd445fa8d1c6c14d3fe0dc4x.webp",
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
+            "caption": "Autonomie",
+            "heading": "100 Heures de musique ou 16h de GPS !",
+            "text": "<p>Partez en mission sans vous soucier du rechargement du FossiBot, au bout de la jungle vous pourrez prendre votre selfie !<\/p>",
+            "button_label": "Détails de la batterie",
             "button_link": ""
           }
         },
@@ -117,10 +129,10 @@
           "type": "row",
           "settings": {
             "image": "shopify:\/\/shop_images\/Sa62e5b99c75e4a008816480723c842c7a.webp",
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
+            "caption": "cpu",
+            "heading": "Performances élevées",
+            "text": "<p>Un processeur à 8 coeurs pour gérer en parallèle vos applications !<\/p>",
+            "button_label": "En savoir plus",
             "button_link": ""
           }
         }
@@ -128,6 +140,7 @@
       "block_order": [
         "row_c6Lapz",
         "row_7wk6zx",
+        "row_geJam9",
         "row_N8NkE3",
         "row_WtXjrJ"
       ],
