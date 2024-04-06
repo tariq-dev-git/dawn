@@ -6,21 +6,21 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Lorem ipsum",
+            "heading": "",
             "heading_size": "h0"
           }
         },
         "text_B78GCY": {
           "type": "text",
           "settings": {
-            "text": "Lorem ipsum",
+            "text": "",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Magasin",
+            "button_label_1": "Accessoires",
             "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": true,
             "button_label_2": "",
@@ -35,7 +35,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/abstract-flow-background_1-min.jpg",
+        "image": "shopify:\/\/shop_images\/Secae1631aa144acc99127a04d50fa89bq.webp",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "desktop_content_position": "bottom-center",
