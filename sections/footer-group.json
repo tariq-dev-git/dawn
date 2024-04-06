@@ -19,26 +19,16 @@
             "menu": "liens-1"
           }
         },
-        "footer-1": {
-          "type": "link_list",
+        "trustz_payment_badge_Are89r": {
+          "type": "shopify:\/\/apps\/trustz\/blocks\/payment-badge\/539d151e-77d2-4b39-b20d-fbce59dc78c7",
           "settings": {
-            "heading": "Info",
-            "menu": "footer"
-          }
-        },
-        "footer-2": {
-          "type": "text",
-          "settings": {
-            "heading": "Our mission",
-            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
           }
         }
       },
       "block_order": [
         "footer-0",
         "link_list_QTfX4b",
-        "footer-1",
-        "footer-2"
+        "trustz_payment_badge_Are89r"
       ],
       "settings": {
         "color_scheme": "scheme-1",
