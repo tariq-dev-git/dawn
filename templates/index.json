@@ -217,23 +217,24 @@
             "image": "shopify:\/\/shop_images\/S41d0c8626fec4d369ea258c2ed7dd1fdM.webp"
           }
         },
-        "image_jPwmkw": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/S78c954eaaf2946ada8640b64ebc60958p.webp"
-          }
-        },
         "image_yG8MT7": {
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Sf8378d8b8bf645e3a38c2d463b21834aL.webp"
           }
+        },
+        "product_HEFrkQ": {
+          "type": "product",
+          "settings": {
+            "product": "fossibot-f101-pro",
+            "second_image": false
+          }
         }
       },
       "block_order": [
         "image_VBJzt3",
-        "image_jPwmkw",
-        "image_yG8MT7"
+        "image_yG8MT7",
+        "product_HEFrkQ"
       ],
       "settings": {
         "heading": "LOREM IPSUM LOREM IPSUM",
