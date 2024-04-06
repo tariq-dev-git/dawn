@@ -25,12 +25,20 @@
             "text": "🚨 Derniers produits (stock fournisseur officiel)",
             "link": ""
           }
+        },
+        "announcement_NQMQNz": {
+          "type": "announcement",
+          "settings": {
+            "text": "🇪🇺 Produits aux normes UE",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "announcement-bar-0",
         "announcement_jjDVk6",
-        "announcement_wNiFQp"
+        "announcement_wNiFQp",
+        "announcement_NQMQNz"
       ],
       "settings": {
         "color_scheme": "",
