@@ -227,7 +227,7 @@
           "type": "product",
           "settings": {
             "product": "fossibot-f101-pro",
-            "second_image": false
+            "second_image": true
           }
         }
       },
