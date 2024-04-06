@@ -4,5 +4,16 @@
     "market": "fr"
   },
   "sections": {
+    "forms": {
+      "settings": {
+      },
+      "blocks": {
+        "e4dce325-d4cc-4c99-a0fb-d331d8c05679": {
+          "settings": {
+            "text_alignment": "center"
+          }
+        }
+      }
+    }
   }
 }

@@ -1,8 +1,0 @@
-{
-  "parent": "page.json",
-  "context": {
-    "market": "fr"
-  },
-  "sections": {
-  }
-}
