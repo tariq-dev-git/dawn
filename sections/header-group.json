@@ -18,11 +18,19 @@
             "text": "🇪🇺 Transporteur UE avec N° de suivi",
             "link": ""
           }
+        },
+        "announcement_wNiFQp": {
+          "type": "announcement",
+          "settings": {
+            "text": "Derniers stocks",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "announcement-bar-0",
-        "announcement_jjDVk6"
+        "announcement_jjDVk6",
+        "announcement_wNiFQp"
       ],
       "settings": {
         "color_scheme": "",
