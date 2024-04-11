@@ -285,6 +285,15 @@
     "collapsible_content_7Rx8Gt": {
       "type": "collapsible-content",
       "blocks": {
+        "collapsible_row_tjKUHz": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Quelles sont les garanties des produits ?",
+            "icon": "clipboard",
+            "row_content": "",
+            "page": ""
+          }
+        },
         "collapsible_row_3UkgQG": {
           "type": "collapsible_row",
           "settings": {
@@ -299,15 +308,6 @@
           "settings": {
             "heading": "Quelles sont les modalités de livraison ?",
             "icon": "truck",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "collapsible_row_tjKUHz": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Quelles sont les garanties des produits ?",
-            "icon": "clipboard",
             "row_content": "",
             "page": ""
           }
@@ -332,9 +332,9 @@
         }
       },
       "block_order": [
+        "collapsible_row_tjKUHz",
         "collapsible_row_3UkgQG",
         "collapsible_row_eCxWxT",
-        "collapsible_row_tjKUHz",
         "collapsible_row_RQ7iHb",
         "collapsible_row_ptApnk"
       ],
