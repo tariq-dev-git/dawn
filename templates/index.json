@@ -326,7 +326,7 @@
           "settings": {
             "heading": "Comment vous contacter ?",
             "icon": "silhouette",
-            "row_content": "<p>En bas du site, dans la rubrique \"Liens\", cliquez sur Contact.<\/p><p>Directement par téléphone au +33 7 01 02 03 04 ou e-mail : contact@zenhomie.store<\/p>",
+            "row_content": "<p>En bas du site, dans la rubrique \"Liens\", cliquez sur Contact.<\/p><p>Directement par téléphone au +33 7 01 02 03 04 ou par e-mail : contact@zenhomie.store<\/p>",
             "page": ""
           }
         }
