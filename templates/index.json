@@ -315,8 +315,8 @@
         "collapsible_row_RQ7iHb": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Quels sont les moyens de paiement disponible",
-            "icon": "check_mark",
+            "heading": "Quels sont les moyens de paiement disponibles ?",
+            "icon": "price_tag",
             "row_content": "",
             "page": ""
           }
