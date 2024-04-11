@@ -288,7 +288,7 @@
         "collapsible_row_3UkgQG": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Je souhaite vous retourner mon colis, comment faire ?",
+            "heading": "Je souhaite me faire rembourser, comment faire ?",
             "icon": "question_mark",
             "row_content": "<p>Il vous suffit de remplir le formulaire sur cette page : <a href=\"\/pages\/return-your-product\" title=\"Return your product\">Retourner un produit<\/a><\/p>",
             "page": ""
