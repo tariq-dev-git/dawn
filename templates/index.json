@@ -297,8 +297,8 @@
         "collapsible_row_eCxWxT": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
+            "heading": "Quelles sont les modalités de livraison ?",
+            "icon": "truck",
             "row_content": "",
             "page": ""
           }
