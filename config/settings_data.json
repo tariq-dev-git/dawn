@@ -119,7 +119,7 @@
     "checkout_logo_position": "right",
     "checkout_body_background_color": "#f3f3f3",
     "checkout_input_background_color_mode": "white",
-    "checkout_sidebar_background_color": "#2aa752",
+    "checkout_sidebar_background_color": "#233f63",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
