@@ -320,13 +320,23 @@
             "row_content": "",
             "page": ""
           }
+        },
+        "collapsible_row_ptApnk": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Comment vous contacter ?",
+            "icon": "silhouette",
+            "row_content": "<p>En bas du site, dans la rubrique \"Liens\", cliquez sur Contact.<\/p><p>Ou directement par téléphone au +33 7 01 02 03 04 ou e-mail : contact@zenhomie.store<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "collapsible_row_3UkgQG",
         "collapsible_row_eCxWxT",
         "collapsible_row_tjKUHz",
-        "collapsible_row_RQ7iHb"
+        "collapsible_row_RQ7iHb",
+        "collapsible_row_ptApnk"
       ],
       "settings": {
         "caption": "",
