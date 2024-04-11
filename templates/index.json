@@ -57,17 +57,10 @@
             "heading": "Le mobile pour les situations extrêmes",
             "heading_size": "h0"
           }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Lorem Ipsum<\/p>"
-          }
         }
       },
       "block_order": [
-        "heading",
-        "text"
+        "heading"
       ],
       "settings": {
         "desktop_content_position": "center",
