@@ -289,7 +289,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Je souhaite me faire rembourser, comment faire ?",
-            "icon": "question_mark",
+            "icon": "return",
             "row_content": "<p>Il vous suffit de remplir le formulaire sur cette page : <a href=\"\/pages\/return-your-product\" title=\"Return your product\">Retourner un produit<\/a><\/p>",
             "page": ""
           }
@@ -306,8 +306,8 @@
         "collapsible_row_tjKUHz": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
+            "heading": "Quelles sont les garanties des produits ?",
+            "icon": "clipboard",
             "row_content": "",
             "page": ""
           }
