@@ -78,6 +78,9 @@
     },
     "custom_liquid_R3yEhT": {
       "type": "custom-liquid",
+      "custom_css": [
+        "h1 {color: red; text-align: center;}"
+      ],
       "settings": {
         "custom_liquid": "<h1>THIS WEBSITE IS FOR TESTING ONLY - SITE INTERNET DE TEST<\/h1>",
         "color_scheme": "",
