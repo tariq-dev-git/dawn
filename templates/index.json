@@ -292,7 +292,7 @@
           "settings": {
             "heading": "Je souhaite me faire rembourser, comment faire ?",
             "icon": "question_mark",
-            "row_content": "<p>Il vous suffit de remplir le formulaire sur cette page : <a href=\"\/pages\/return-your-product\" title=\"Return your product\">Retourner un produit<\/a><\/p>",
+            "row_content": "<p>Il vous suffit de remplir le formulaire sur cette page : <a href=\"\/pages\/retourner-un-produit\" title=\"Retourner un produit\">Retourner un produit<\/a><\/p>",
             "page": ""
           }
         },
