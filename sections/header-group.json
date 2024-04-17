@@ -79,10 +79,11 @@
     "custom_liquid_R3yEhT": {
       "type": "custom-liquid",
       "custom_css": [
-        "h1 {color: red; text-align: center;}"
+        "h1:first-child {color: red;}",
+        "h1 {text-align: center;}"
       ],
       "settings": {
-        "custom_liquid": "<h1>THIS WEBSITE IS FOR TESTING ONLY - SITE INTERNET DE TEST<\/h1>\n<h1>No purchase available - Aucun achat possible\/h1>",
+        "custom_liquid": "<h1>THIS WEBSITE IS FOR TESTING ONLY - SITE INTERNET DE TEST<\/h1>\n<h1>No purchase available - Aucun achat possible<\/h1>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
