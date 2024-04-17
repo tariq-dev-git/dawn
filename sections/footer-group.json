@@ -19,18 +19,12 @@
             "menu": "liens-1"
           }
         },
-        "trustz_payment_badge_Are89r": {
-          "type": "shopify:\/\/apps\/trustz\/blocks\/payment-badge\/539d151e-77d2-4b39-b20d-fbce59dc78c7",
-          "disabled": true,
-          "settings": {
-          }
-        },
         "trustz_shipping_information_QpT9fj": {
           "type": "shopify:\/\/apps\/trustz\/blocks\/shipping-information\/539d151e-77d2-4b39-b20d-fbce59dc78c7",
           "settings": {
           }
         },
-        "trustz_refund_information_4yyKFk": {
+        "trustz_refund_information_TyEqgR": {
           "type": "shopify:\/\/apps\/trustz\/blocks\/refund-information\/539d151e-77d2-4b39-b20d-fbce59dc78c7",
           "settings": {
           }
@@ -39,9 +33,8 @@
       "block_order": [
         "footer-0",
         "link_list_QTfX4b",
-        "trustz_payment_badge_Are89r",
         "trustz_shipping_information_QpT9fj",
-        "trustz_refund_information_4yyKFk"
+        "trustz_refund_information_TyEqgR"
       ],
       "settings": {
         "color_scheme": "scheme-1",
