@@ -2,9 +2,10 @@
 {%- if predictive_search.performed -%}
   {% assign first_column_results_size = predictive_search.resources.queries.size
     | plus: predictive_search.resources.collections.size
+    | plus: predictive_search.resources.pages.size
     | plus: predictive_search.resources.articles.size
   %}
-   <!-- AJOUTER CETTE LIGNE POUR INCLURE LES PRÉ-RÉSULTAS DE RECHERCHE POUR LE TYPE PAGE | plus: predictive_search.resources.pages.size -->
+   <!-- AJOUTER CETTE LIGNE POUR INCLURE LES PRÉ-RÉSULTAS DE RECHERCHE POUR LE TYPE PAGE  -->
   <div id="predictive-search-results" role="listbox">
     {%- if first_column_results_size > 0 or predictive_search.resources.products.size > 0 -%}
       <div
