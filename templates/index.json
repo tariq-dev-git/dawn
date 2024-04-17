@@ -301,7 +301,7 @@
           "settings": {
             "heading": "Quelles sont les modalités de livraison ?",
             "icon": "truck",
-            "row_content": "<p>Après validation du paiement de votre commande, nous expédions votre colis en moins de 24 heures, et l'envoi prend de 1 à 3 jours ouvrés maximum en France Métropolitaine.<\/p><p>Nous vous transmettons aussi un numéro de suivi de colis afin de connaître l'état d'avancement de votre livraison.<\/p>",
+            "row_content": "<p>Après validation du paiement de votre commande, nous expédions votre colis en moins de 24 heures, et l'envoi prend de 1 à 3 jours ouvrés maximum en France Métropolitaine.<\/p><p>Nous vous transmettons aussi un numéro de suivi de colis afin de suivre l'état d'avancement de votre livraison à tout moment.<\/p>",
             "page": ""
           }
         },
