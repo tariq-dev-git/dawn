@@ -83,7 +83,7 @@
         "h1 {text-align: center;}"
       ],
       "settings": {
-        "custom_liquid": "<h1>THIS WEBSITE IS FOR TESTING ONLY - SITE INTERNET DE TEST<\/h1>\n<h1>No purchase available - Aucun achat possible<\/h1>",
+        "custom_liquid": "<h1>This website is for testing only \/ Site internet exemple<\/h1>\n<h1>No purchase available \/ Aucun achat possible<\/h1>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
