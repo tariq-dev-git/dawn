@@ -283,7 +283,7 @@
           "settings": {
             "heading": "Quelles sont les garanties des produits ?",
             "icon": "clipboard",
-            "row_content": "",
+            "row_content": "<p>Nos articles sont couverts par la garantie légale de conformité et la garantie contre les vices cachés ainsi prévus par le Code de la consommation : articles L217-3 à L217-20<\/p>",
             "page": ""
           }
         },
@@ -373,6 +373,7 @@
         "paragraph_ph3DAp",
         "email_form_VzyWY6"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "",
         "full_width": true,
