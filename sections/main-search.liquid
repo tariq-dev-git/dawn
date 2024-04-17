@@ -259,7 +259,9 @@
                   {%- if forloop.index > 2 -%}
                     {%- assign lazy_load = true -%}
                   {%- endif -%}
-
+                  {% if item.object_type == 'page' %}
+{% else %}
+                    
                   <li
                     class="grid__item{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}"
                     {% if settings.animations_reveal_on_scroll %}
@@ -288,14 +290,8 @@
                           media_aspect_ratio: 1,
                           lazy_load: lazy_load
                         %}
-                      {%- when 'page' -%}
-
-                      
-                      <!-- CACHER LES PAGES DANS LES RÉSULTATS DE RECHERCHE -->
-
-                      <div style="display: none;">
-                      
-                        <div class="article-card-wrapper card-wrapper underline-links-hover">
+                      <!-- {%- when 'page' -%} -->
+                        <!-- <div class="article-card-wrapper card-wrapper underline-links-hover">
                           <div
                             class="card card--card card--text ratio color-{{ settings.blog_card_color_scheme }}"
                             style="--ratio-percent: 100%;"
@@ -315,15 +311,11 @@
                               </div>
                             </div>
                           </div>
-                        </div>
-
-                        
-                      </div>
-
-                      <!-- SUPPRIMER LE DIV DISPLAY:NONE; -->
-                      
+                        </div>                       -->
                     {%- endcase -%}
                   </li>
+                    {% endif %}
+                    
                 {%- endfor -%}
               </ul>
               {%- if paginate.pages > 1 -%}
