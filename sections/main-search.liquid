@@ -289,6 +289,12 @@
                           lazy_load: lazy_load
                         %}
                       {%- when 'page' -%}
+
+                      
+                      <!-- CACHER LES PAGES DANS LES RÉSULTATS DE RECHERCHE -->
+
+                      <div style="display: none;">
+                      
                         <div class="article-card-wrapper card-wrapper underline-links-hover">
                           <div
                             class="card card--card card--text ratio color-{{ settings.blog_card_color_scheme }}"
@@ -310,6 +316,12 @@
                             </div>
                           </div>
                         </div>
+
+                        
+                      </div>
+
+                      <!-- SUPPRIMER LE DIV DISPLAY:NONE; -->
+                      
                     {%- endcase -%}
                   </li>
                 {%- endfor -%}
