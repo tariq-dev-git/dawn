@@ -79,7 +79,7 @@
           "settings": {
             "heading": "Dimensions",
             "icon": "ruler",
-            "content": "<p>8MPDesign: FlipBattery Type: Not DetachableCharging Power: 18WFront Camera Quantity: 1Rear Camera Quantity: 3Display Size: 5.45''Screen Type: Water Drop ScreenOrigin: Mainland ChinaBiometrics Technology: Fingerprint RecognitionBiometrics Technology: Face RecognitionBattery Capacity(mAh): 10600Charging Interface Type: TYPE-CWireless Charging: noSIM Card Quantity: 2 SIM CardNFC: <\/p>",
+            "content": "<h3>8MPDesign: FlipBattery Type: Not DetachableCharging Power: 18WFront Camera Quantity: 1Rear Camera Quantity: 3Display Size: 5.45''Screen Type: Water Drop ScreenOrigin: Mainland ChinaBiometrics Technology: Fingerprint RecognitionBiometrics Technology: Face RecognitionBattery Capacity(mAh): 10600Charging Interface Type: TYPE-CWireless Charging: noSIM Card Quantity: 2 SIM CardNFC: <\/h3>",
             "page": ""
           }
         },
@@ -88,7 +88,7 @@
           "settings": {
             "heading": "Autre",
             "icon": "recycle",
-            "content": "<p>YESMIL-STD-810G: noBattery Capacity Range: 7500+ mAhCPU Model: MTKMTK Model: Helio P60Wi-Fi Transmission Standard: 802.11axWi-Fi Transmission Standard: 802.11acWi-Fi Transmission Standard: 802.11n 2.4GHz\/5 GHzWi-Fi Transmission Standard: 802.11n 2.4 GHzWi-Fi Transmission Standard: 802.11b\/gWi-Fi Transmission Standard: 802.11aScreen Refresh Rate: 60HzIP68\/IP69K: YESMemory Card Type: Dedicated slotWi-fi: <\/p>",
+            "content": "<h3>YESMIL-STD-810G: noBattery Capacity Range: 7500+ mAhCPU Model: MTKMTK Model: Helio P60Wi-Fi Transmission Standard: 802.11axWi-Fi Transmission Standard: 802.11acWi-Fi Transmission Standard: 802.11n 2.4GHz\/5 GHzWi-Fi Transmission Standard: 802.11n 2.4 GHzWi-Fi Transmission Standard: 802.11b\/gWi-Fi Transmission Standard: 802.11aScreen Refresh Rate: 60HzIP68\/IP69K: YESMemory Card Type: Dedicated slotWi-fi: <\/h3>",
             "page": ""
           }
         }
