@@ -1290,7 +1290,7 @@ a.product__text {
 }
 
 .product-media-container.constrain-height.media-fit-contain {
-  --contained-width: calc(var(--constrained-height) * var(--aspect-ratio));
+  --contained-width: calc(var(--constrained-height) + 0px * var(--aspect-ratio));
   width: min(var(--contained-width), 100%);
 }
 
