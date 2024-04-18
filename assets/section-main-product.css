@@ -445,7 +445,7 @@ a.product__text {
   }
 
   .product__media-list .product__media-item {
-    width: 50px;
+    width: 100%;
   }
 }
 
