@@ -43,7 +43,7 @@
           "type": "inventory",
           "settings": {
             "text_style": "body",
-            "inventory_threshold": 2,
+            "inventory_threshold": 5,
             "show_inventory_quantity": true
           }
         },
