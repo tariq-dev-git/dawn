@@ -59,13 +59,6 @@
             "show_gift_card_recipient": true
           }
         },
-        "text_ezh4rN": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_style": "body"
-          }
-        },
         "description": {
           "type": "description",
           "disabled": true,
@@ -77,7 +70,7 @@
           "settings": {
             "heading": "Matière",
             "icon": "leather",
-            "content": "",
+            "content": "<h6>Marque Fossibot ItemScreen: YesFast Charging: SuperCharge3.5mm Headphone Port: noOperation System: AndroidRear Camera Pixel: 24MPDisplay Resolution: 1440x720Front Camera Pixel: <\/h6>",
             "page": ""
           }
         },
@@ -86,7 +79,7 @@
           "settings": {
             "heading": "Dimensions",
             "icon": "ruler",
-            "content": "",
+            "content": "<p>8MPDesign: FlipBattery Type: Not DetachableCharging Power: 18WFront Camera Quantity: 1Rear Camera Quantity: 3Display Size: 5.45''Screen Type: Water Drop ScreenOrigin: Mainland ChinaBiometrics Technology: Fingerprint RecognitionBiometrics Technology: Face RecognitionBattery Capacity(mAh): 10600Charging Interface Type: TYPE-CWireless Charging: noSIM Card Quantity: 2 SIM CardNFC: <\/p>",
             "page": ""
           }
         },
@@ -95,7 +88,7 @@
           "settings": {
             "heading": "Autre",
             "icon": "recycle",
-            "content": "",
+            "content": "<p>YESMIL-STD-810G: noBattery Capacity Range: 7500+ mAhCPU Model: MTKMTK Model: Helio P60Wi-Fi Transmission Standard: 802.11axWi-Fi Transmission Standard: 802.11acWi-Fi Transmission Standard: 802.11n 2.4GHz\/5 GHzWi-Fi Transmission Standard: 802.11n 2.4 GHzWi-Fi Transmission Standard: 802.11b\/gWi-Fi Transmission Standard: 802.11aScreen Refresh Rate: 60HzIP68\/IP69K: YESMemory Card Type: Dedicated slotWi-fi: <\/p>",
             "page": ""
           }
         }
@@ -110,7 +103,6 @@
         "inventory_wk9Npi",
         "quantity_selector",
         "buy_buttons_3dJPgP",
-        "text_ezh4rN",
         "description",
         "collapsible-row-0",
         "collapsible-row-2",
