@@ -1331,12 +1331,12 @@ a.product__text {
   .product-media-container.media-fit-cover,
   .product-media-container.media-fit-cover .product__modal-opener,
   .product-media-container.media-fit-cover .media {
-    height: 50px;
+    height: 100%;
   }
 
   .product-media-container.media-fit-cover .deferred-media__poster img {
     object-fit: cover;
-    width: 50px;
+    width: 100%;
   }
 }
 
