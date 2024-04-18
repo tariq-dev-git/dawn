@@ -96,17 +96,6 @@
             "button_link": ""
           }
         },
-        "row_geJam9": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/S78c954eaaf2946ada8640b64ebc60958p.webp",
-            "caption": "OBJECTIF",
-            "heading": "Appareil Photo et caméra de l'espace",
-            "text": "<p>Appraiel 24Mp avec caméra AI <\/p>",
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        },
         "row_N8NkE3": {
           "type": "row",
           "settings": {
@@ -117,25 +106,12 @@
             "button_label": "Détails de la batterie",
             "button_link": ""
           }
-        },
-        "row_WtXjrJ": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sa62e5b99c75e4a008816480723c842c7a.webp",
-            "caption": "cpu",
-            "heading": "Performances élevées",
-            "text": "<p>Un processeur à 8 coeurs pour gérer en parallèle vos applications !<\/p>",
-            "button_label": "En savoir plus",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
         "row_c6Lapz",
         "row_7wk6zx",
-        "row_geJam9",
-        "row_N8NkE3",
-        "row_WtXjrJ"
+        "row_N8NkE3"
       ],
       "settings": {
         "image_height": "medium",
