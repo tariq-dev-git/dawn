@@ -381,7 +381,8 @@ a.product__text {
   .product__media-list {
     margin-left: -2.5rem;
     margin-bottom: 3rem;
-    width: calc(100% + 4rem);
+    /* width: calc(100% + 4rem); */
+    width: 100px;
   }
 
   .product__media-wrapper slider-component:not(.thumbnail-slider--no-slide) {
