@@ -62,7 +62,7 @@
         "text_ezh4rN": {
           "type": "text",
           "settings": {
-            "text": "rand Name: fossibot Item Condition: NewTouch Screen: YesFast Charging: SuperCharge3.5mm Headphone Port: noOperation System: AndroidRear Camera Pixel: 24MPDisplay Resolution: 1440x720Front Camera Pixel: 8MPDesign: FlipBattery Type: Not DetachableCharging Power: 18WFront Camera Quantity: 1Rear Camera Quantity: 3Display Size: 5.45''Screen Type: Water Drop ScreenOrigin: Mainland ChinaBiometrics Technology: Fingerprint RecognitionBiometrics Technology: Face RecognitionBattery Capacity(mAh): 10600Charging Interface Type: TYPE-CWireless Charging: noSIM Card Quantity: 2 SIM CardNFC: YESMIL-STD-810G: noBattery Capacity Range: 7500+ mAhCPU Model: MTKMTK Model: Helio P60Wi-Fi Transmission Standard: 802.11axWi-Fi Transmission Standard: 802.11acWi-Fi Transmission Standard: 802.11n 2.4GHz\/5 GHzWi-Fi Transmission Standard: 802.11n 2.4 GHzWi-Fi Transmission Standard: 802.11b\/gWi-Fi Transmission Standard: 802.11aScreen Refresh Rate: 60HzIP68\/IP69K: YESMemory Card Type: Dedicated slotWi-fi: YESOther Features: Optical StabilizationOther Features: Photograph PhoneOther Features: Sports PhoneCertification: CEBuilt-in GPS: YESCellular: 3GCellular: 2GCellular: 4GScreen Material: IPSOperating system: Android 13.0Headphone port: TYPE-C",
+            "text": "",
             "text_style": "body"
           }
         },
@@ -77,15 +77,6 @@
           "settings": {
             "heading": "Matière",
             "icon": "leather",
-            "content": "",
-            "page": ""
-          }
-        },
-        "collapsible-row-1": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Livraison",
-            "icon": "truck",
             "content": "",
             "page": ""
           }
@@ -107,12 +98,6 @@
             "content": "",
             "page": ""
           }
-        },
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
         }
       },
       "block_order": [
@@ -128,10 +113,8 @@
         "text_ezh4rN",
         "description",
         "collapsible-row-0",
-        "collapsible-row-1",
         "collapsible-row-2",
-        "collapsible-row-3",
-        "share"
+        "collapsible-row-3"
       ],
       "settings": {
         "enable_sticky_info": true,
