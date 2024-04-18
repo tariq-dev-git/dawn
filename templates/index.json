@@ -21,7 +21,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Voir la fiche produit",
-            "button_link_1": "shopify:\/\/products\/fossibot-f101-pro-1",
+            "button_link_1": "shopify:\/\/products\/fluffy-carpet",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -35,7 +35,6 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Secae1631aa144acc99127a04d50fa89bq.webp",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "desktop_content_position": "bottom-center",
