@@ -40,7 +40,7 @@
     "card_border_thickness": 6,
     "card_border_opacity": 85,
     "card_corner_radius": 6,
-    "card_shadow_opacity": 30,
+    "card_shadow_opacity": 55,
     "card_shadow_horizontal_offset": 8,
     "card_shadow_vertical_offset": 8,
     "card_shadow_blur": 5,
