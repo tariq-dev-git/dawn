@@ -246,7 +246,7 @@
           "settings": {
             "heading": "Quels sont les moyens de paiement disponibles ?",
             "icon": "price_tag",
-            "row_content": "<ul><li>Paiements par cartes bancaires: Visa, Mastercard et American Express<\/li><li>Paiement sécurisé par Paypal, Apple Pay et Amazon Pay.<\/li><li><\/li><\/ul>",
+            "row_content": "<ul><li>Paiements par cartes bancaires: Visa, Mastercard et American Express<\/li><li>Paiement sécurisé par Paypal, Apple Pay et Amazon Pay.<\/li><\/ul>",
             "page": ""
           }
         },
