@@ -1,45 +1,5 @@
 {
   "sections": {
-    "collection_list_9neiVg": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_8rUwP6": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "abreuvoirs-et-gamelles"
-          }
-        },
-        "featured_collection_NDUTNm": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_Cj8mPH": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_8rUwP6",
-        "featured_collection_NDUTNm",
-        "featured_collection_Cj8mPH"
-      ],
-      "settings": {
-        "title": "Collections",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "featured_product_LEKCif": {
       "type": "featured-product",
       "blocks": {
@@ -109,54 +69,6 @@
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "image_banner": {
-      "type": "image-banner",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h0"
-          }
-        },
-        "text_B78GCY": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_style": "body"
-          }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Voir la fiche produit",
-            "button_link_1": "shopify:\/\/products\/fluffy-carpet",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text_B78GCY",
-        "button"
-      ],
-      "disabled": true,
-      "settings": {
-        "image_overlay_opacity": 40,
-        "image_height": "large",
-        "desktop_content_position": "bottom-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-3",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
       }
     },
     "collapsible_content_7Rx8Gt": {
@@ -267,9 +179,7 @@
     }
   },
   "order": [
-    "collection_list_9neiVg",
     "featured_product_LEKCif",
-    "image_banner",
     "collapsible_content_7Rx8Gt",
     "newsletter_MrPDzX"
   ]
