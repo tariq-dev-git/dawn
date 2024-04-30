@@ -62,7 +62,7 @@
       "type": "header",
       "settings": {
         "logo_position": "middle-left",
-        "menu": "",
+        "menu": "menu-principal",
         "menu_type_desktop": "mega",
         "sticky_header_type": "on-scroll-up",
         "show_line_separator": true,
