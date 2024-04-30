@@ -96,6 +96,12 @@
           "type": "shopify:\/\/apps\/tz-trust-badges-payments-icon\/blocks\/shipping-information\/539d151e-77d2-4b39-b20d-fbce59dc78c7",
           "settings": {
           }
+        },
+        "custom_liquid_7VVqCY": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"sharethis-inline-share-buttons\"><\/div>"
+          }
         }
       },
       "block_order": [
@@ -112,7 +118,8 @@
         "quantity_selector",
         "inventory_wk9Npi",
         "buy_buttons_3dJPgP",
-        "trustz_shipping_information_LM6tRA"
+        "trustz_shipping_information_LM6tRA",
+        "custom_liquid_7VVqCY"
       ],
       "settings": {
         "enable_sticky_info": true,
