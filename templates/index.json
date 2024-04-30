@@ -40,6 +40,77 @@
         "padding_bottom": 36
       }
     },
+    "featured_product_LEKCif": {
+      "type": "featured-product",
+      "blocks": {
+        "text_N6z4QR": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_jtNUma": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_ABeq3i": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_9fYpxA": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_wWYifV": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_yRpyYV": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_3ffMNQ": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_N6z4QR",
+        "title_jtNUma",
+        "price_ABeq3i",
+        "variant_picker_9fYpxA",
+        "quantity_selector_wWYifV",
+        "buy_buttons_yRpyYV",
+        "share_3ffMNQ"
+      ],
+      "settings": {
+        "product": "",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -74,6 +145,7 @@
         "text_B78GCY",
         "button"
       ],
+      "disabled": true,
       "settings": {
         "image_overlay_opacity": 40,
         "image_height": "large",
@@ -85,170 +157,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
-      }
-    },
-    "rich_text": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Le mobile pour les situations extrêmes",
-            "heading_size": "h0"
-          }
-        }
-      },
-      "block_order": [
-        "heading"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
-    "multirow_xW6RnE": {
-      "type": "multirow",
-      "blocks": {
-        "row_c6Lapz": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/S4ae29271a95e4db1bb32667b3dbeb0f0B.webp",
-            "caption": "DESIGN",
-            "heading": "Tic-Tac",
-            "text": "<p>16 fonds d'écrans par défaut avec la possibilité de placer celle de votre choix pour lire l'heure avec style, fallait y penser !<\/p>",
-            "button_label": "Voir les autres fonctions",
-            "button_link": ""
-          }
-        },
-        "row_7wk6zx": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/S98e156f8fb5e4ffc81d30ae242c0d7e6D.webp",
-            "caption": "Apparence",
-            "heading": "Deux modèles disponibles",
-            "text": "<p>Choisissez entre le modèle Tigre du Bengale ou Rouge Dragon !<\/p>",
-            "button_label": "Voir les modèles restants",
-            "button_link": ""
-          }
-        },
-        "row_N8NkE3": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sbb702914bdd445fa8d1c6c14d3fe0dc4x.webp",
-            "caption": "Autonomie",
-            "heading": "100 Heures de musique ou 16h de GPS !",
-            "text": "<p>Partez en mission sans vous soucier du rechargement du FossiBot, au bout de la jungle vous pourrez prendre votre selfie !<\/p>",
-            "button_label": "Détails de la batterie",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "row_c6Lapz",
-        "row_7wk6zx",
-        "row_N8NkE3"
-      ],
-      "settings": {
-        "image_height": "medium",
-        "desktop_image_width": "medium",
-        "heading_size": "h1",
-        "text_style": "body",
-        "button_style": "secondary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "",
-        "row_color_scheme": "",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "collection_list_BYtDTz": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_BdDwwN": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_QCRFXG": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "best-sellings"
-          }
-        },
-        "featured_collection_PttqrW": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "celebrations"
-          }
-        },
-        "featured_collection_aDgeCa": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_BdDwwN",
-        "featured_collection_QCRFXG",
-        "featured_collection_PttqrW",
-        "featured_collection_aDgeCa"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "video": {
-      "type": "video",
-      "disabled": true,
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn": {
-      "type": "multicolumn",
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "collapsible_content_7Rx8Gt": {
@@ -360,12 +268,8 @@
   },
   "order": [
     "collection_list_9neiVg",
+    "featured_product_LEKCif",
     "image_banner",
-    "rich_text",
-    "multirow_xW6RnE",
-    "collection_list_BYtDTz",
-    "video",
-    "multicolumn",
     "collapsible_content_7Rx8Gt",
     "newsletter_MrPDzX"
   ]
