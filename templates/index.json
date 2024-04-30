@@ -1,5 +1,76 @@
 {
   "sections": {
+    "featured_product_YyMymK": {
+      "type": "featured-product",
+      "blocks": {
+        "text_LCjFaW": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_FUpadz": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_U4Bf86": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_qtCydF": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_qV49ry": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_V9tXjj": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_z7dnHH": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_LCjFaW",
+        "title_FUpadz",
+        "price_U4Bf86",
+        "variant_picker_qtCydF",
+        "quantity_selector_qV49ry",
+        "buy_buttons_V9tXjj",
+        "share_z7dnHH"
+      ],
+      "settings": {
+        "product": "barbecue-charbon-de-bois-sans-fumee-portable-cleanq-innovagoods",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "collapsible_content_7Rx8Gt": {
       "type": "collapsible-content",
       "blocks": {
@@ -108,6 +179,7 @@
     }
   },
   "order": [
+    "featured_product_YyMymK",
     "collapsible_content_7Rx8Gt",
     "newsletter_MrPDzX"
   ]
