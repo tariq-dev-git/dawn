@@ -293,7 +293,7 @@
       "taxes_and_shipping_policy_at_checkout_html": "Taxes, réductions et <a href=\"{{ link }}\">frais d’expédition<\/a> calculés à l’étape du paiement",
       "taxes_included_but_shipping_at_checkout": "Prix TTC (Frais d’expédition et Réductions calculés à l’étape du paiement).",
       "taxes_included_and_shipping_policy_html": "Prix TTC. <a href=\"{{ link }}\">Frais d’expédition<\/a> et réductions calculés à l’étape du paiement.",
-      "taxes_and_shipping_at_checkout": "Taxes, réductions et frais d’expédition calculés à l’étape du paiement",
+      "taxes_and_shipping_at_checkout": "Ce prix TTC inclus les taxes en vigeur et les frais d'expédition.",
       "headings": {
         "product": "Produit",
         "price": "Prix",
