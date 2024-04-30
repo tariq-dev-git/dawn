@@ -52,6 +52,7 @@
         },
         "inventory_wk9Npi": {
           "type": "inventory",
+          "disabled": true,
           "settings": {
             "text_style": "body",
             "inventory_threshold": 10,
