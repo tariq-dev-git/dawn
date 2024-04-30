@@ -15,11 +15,6 @@
           "settings": {
           }
         },
-        "judge_me_reviews_preview_badge_anCQ76": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        },
         "caption": {
           "type": "text",
           "settings": {
@@ -27,8 +22,19 @@
             "text_style": "subtitle"
           }
         },
+        "judge_me_reviews_preview_badge_anCQ76": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "disabled": true,
+          "settings": {
+          }
+        },
         "price": {
           "type": "price",
+          "settings": {
+          }
+        },
+        "description": {
+          "type": "description",
           "settings": {
           }
         },
@@ -37,39 +43,6 @@
           "settings": {
             "picker_type": "button",
             "swatch_shape": "circle"
-          }
-        },
-        "description": {
-          "type": "description",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "collapsible-row-0": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Matière",
-            "icon": "leather",
-            "content": "<h3>Marque Fossibot ItemScreen: YesFast Charging: SuperCharge3.5mm Headphone Port: noOperation System: AndroidRear Camera Pixel: 24MPDisplay Resolution: 1440x720Front Camera Pixel: <\/h3>",
-            "page": ""
-          }
-        },
-        "collapsible-row-2": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Dimensions",
-            "icon": "ruler",
-            "content": "<h3>8MPDesign: FlipBattery Type: Not DetachableCharging Power: 18WFront Camera Quantity: 1Rear Camera Quantity: 3Display Size: 5.45''Screen Type: Water Drop ScreenOrigin: Mainland ChinaBiometrics Technology: Fingerprint RecognitionBiometrics Technology: Face RecognitionBattery Capacity(mAh): 10600Charging Interface Type: TYPE-CWireless Charging: noSIM Card Quantity: 2 SIM CardNFC: <\/h3>",
-            "page": ""
-          }
-        },
-        "collapsible-row-3": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Autre",
-            "icon": "recycle",
-            "content": "<h3>YESMIL-STD-810G: noBattery Capacity Range: 7500+ mAhCPU Model: MTKMTK Model: Helio P60Wi-Fi Transmission Standard: 802.11axWi-Fi Transmission Standard: 802.11acWi-Fi Transmission Standard: 802.11n 2.4GHz\/5 GHzWi-Fi Transmission Standard: 802.11n 2.4 GHzWi-Fi Transmission Standard: 802.11b\/gWi-Fi Transmission Standard: 802.11aScreen Refresh Rate: 60HzIP68\/IP69K: YESMemory Card Type: Dedicated slotWi-fi: <\/h3>",
-            "page": ""
           }
         },
         "quantity_selector": {
@@ -107,14 +80,11 @@
       "block_order": [
         "vendor",
         "title",
-        "judge_me_reviews_preview_badge_anCQ76",
         "caption",
+        "judge_me_reviews_preview_badge_anCQ76",
         "price",
-        "variant_picker",
         "description",
-        "collapsible-row-0",
-        "collapsible-row-2",
-        "collapsible-row-3",
+        "variant_picker",
         "quantity_selector",
         "inventory_wk9Npi",
         "buy_buttons_3dJPgP",
@@ -149,6 +119,7 @@
       "block_order": [
         "judge_me_reviews_review_widget_xFM8Wz"
       ],
+      "disabled": true,
       "settings": {
         "include_margins": true
       }
