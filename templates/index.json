@@ -1,5 +1,45 @@
 {
   "sections": {
+    "collection_list_9neiVg": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_8rUwP6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "abreuvoirs-et-gamelles"
+          }
+        },
+        "featured_collection_NDUTNm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_Cj8mPH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_8rUwP6",
+        "featured_collection_NDUTNm",
+        "featured_collection_Cj8mPH"
+      ],
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -319,6 +359,7 @@
     }
   },
   "order": [
+    "collection_list_9neiVg",
     "image_banner",
     "rich_text",
     "multirow_xW6RnE",
