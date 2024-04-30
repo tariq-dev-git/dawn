@@ -1,76 +1,5 @@
 {
   "sections": {
-    "featured_product_LEKCif": {
-      "type": "featured-product",
-      "blocks": {
-        "text_N6z4QR": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "title_jtNUma": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "price_ABeq3i": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "variant_picker_9fYpxA": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button",
-            "swatch_shape": "circle"
-          }
-        },
-        "quantity_selector_wWYifV": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "buy_buttons_yRpyYV": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
-          }
-        },
-        "share_3ffMNQ": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "text_N6z4QR",
-        "title_jtNUma",
-        "price_ABeq3i",
-        "variant_picker_9fYpxA",
-        "quantity_selector_wWYifV",
-        "buy_buttons_yRpyYV",
-        "share_3ffMNQ"
-      ],
-      "settings": {
-        "product": "adhesifs-remonte-seins-invisibles-innovagoods-pack-de-24-unites",
-        "color_scheme": "",
-        "secondary_background": false,
-        "media_size": "medium",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "collapsible_content_7Rx8Gt": {
       "type": "collapsible-content",
       "blocks": {
@@ -179,7 +108,6 @@
     }
   },
   "order": [
-    "featured_product_LEKCif",
     "collapsible_content_7Rx8Gt",
     "newsletter_MrPDzX"
   ]
