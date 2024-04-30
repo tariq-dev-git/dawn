@@ -39,34 +39,9 @@
             "swatch_shape": "circle"
           }
         },
-        "inventory_wk9Npi": {
-          "type": "inventory",
-          "settings": {
-            "text_style": "body",
-            "inventory_threshold": 10,
-            "show_inventory_quantity": true
-          }
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "buy_buttons_3dJPgP": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
-          }
-        },
         "description": {
           "type": "description",
           "disabled": true,
-          "settings": {
-          }
-        },
-        "trustz_shipping_information_LM6tRA": {
-          "type": "shopify:\/\/apps\/trustz\/blocks\/shipping-information\/539d151e-77d2-4b39-b20d-fbce59dc78c7",
           "settings": {
           }
         },
@@ -96,6 +71,31 @@
             "content": "<h3>YESMIL-STD-810G: noBattery Capacity Range: 7500+ mAhCPU Model: MTKMTK Model: Helio P60Wi-Fi Transmission Standard: 802.11axWi-Fi Transmission Standard: 802.11acWi-Fi Transmission Standard: 802.11n 2.4GHz\/5 GHzWi-Fi Transmission Standard: 802.11n 2.4 GHzWi-Fi Transmission Standard: 802.11b\/gWi-Fi Transmission Standard: 802.11aScreen Refresh Rate: 60HzIP68\/IP69K: YESMemory Card Type: Dedicated slotWi-fi: <\/h3>",
             "page": ""
           }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "inventory_wk9Npi": {
+          "type": "inventory",
+          "settings": {
+            "text_style": "body",
+            "inventory_threshold": 10,
+            "show_inventory_quantity": true
+          }
+        },
+        "buy_buttons_3dJPgP": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "trustz_shipping_information_LM6tRA": {
+          "type": "shopify:\/\/apps\/tz-trust-badges-payments-icon\/blocks\/shipping-information\/539d151e-77d2-4b39-b20d-fbce59dc78c7",
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -105,14 +105,14 @@
         "caption",
         "price",
         "variant_picker",
-        "inventory_wk9Npi",
-        "quantity_selector",
-        "buy_buttons_3dJPgP",
         "description",
-        "trustz_shipping_information_LM6tRA",
         "collapsible-row-0",
         "collapsible-row-2",
-        "collapsible-row-3"
+        "collapsible-row-3",
+        "quantity_selector",
+        "inventory_wk9Npi",
+        "buy_buttons_3dJPgP",
+        "trustz_shipping_information_LM6tRA"
       ],
       "settings": {
         "enable_sticky_info": true,
