@@ -3,9 +3,9 @@
     "featured_collection_MLgGdd": {
       "type": "featured-collection",
       "settings": {
-        "title": "Articles récemment ajoutés !",
+        "title": "Nouveautés !",
         "heading_size": "h1",
-        "description": "",
+        "description": "<p>Articles récemment ajoutés :<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "nos-nouveaux-articles",
