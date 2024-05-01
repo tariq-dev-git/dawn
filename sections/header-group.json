@@ -8,7 +8,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "💫 Livraison offerte ! (Du 1er mai au 18 mai inclus)",
+            "text": "💫 Livraison offerte pour toute commande supérieur à 24,99€ !",
             "link": ""
           }
         },
