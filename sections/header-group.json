@@ -8,7 +8,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "🚚 Livraison offerte ! (Du 1er mai au 18 mai inclus) 💫",
+            "text": "💫 Livraison offerte ! (Du 1er mai au 18 mai inclus)",
             "link": ""
           }
         },
@@ -22,7 +22,7 @@
         "announcement_jjDVk6": {
           "type": "announcement",
           "settings": {
-            "text": "🚚 Nos Transporteurs : LaPoste, UPS, TNT, GLS avec N° de suivi",
+            "text": "🚚 Nos Transporteurs :LaPoste, UPS, TNT, GLS avec N° de suivi",
             "link": ""
           }
         },
