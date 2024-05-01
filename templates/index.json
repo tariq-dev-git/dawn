@@ -154,6 +154,40 @@
         "padding_bottom": 36
       }
     },
+    "newsletter_MrPDzX": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_jMY7QN": {
+          "type": "heading",
+          "settings": {
+            "heading": "Faites le bon choix, abonnez-vous !",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_ph3DAp": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<ul><li>On vous offre des réductions (jusqu'à -15%) !<\/li><li>Vous profitez en premier de nos nouveautés !<\/li><\/ul><p>Et puis... rien d'autre, après on vous laisse tranquille... 💤<\/p>"
+          }
+        },
+        "email_form_VzyWY6": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading_jMY7QN",
+        "paragraph_ph3DAp",
+        "email_form_VzyWY6"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "collapsible_content_7Rx8Gt": {
       "type": "collapsible-content",
       "blocks": {
@@ -224,47 +258,13 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "newsletter_MrPDzX": {
-      "type": "newsletter",
-      "blocks": {
-        "heading_jMY7QN": {
-          "type": "heading",
-          "settings": {
-            "heading": "Faites le bon choix, abonnez-vous !",
-            "heading_size": "h1"
-          }
-        },
-        "paragraph_ph3DAp": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<ul><li>On vous offre des réductions (jusqu'à -15%) !<\/li><li>Vous profitez en premier de nos nouveautés !<\/li><\/ul><p>Et puis... rien d'autre, après on vous laisse tranquille... 💤<\/p>"
-          }
-        },
-        "email_form_VzyWY6": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "heading_jMY7QN",
-        "paragraph_ph3DAp",
-        "email_form_VzyWY6"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
     "featured_collection_MLgGdd",
     "featured_product_YyMymK",
     "multirow_43hnaf",
-    "collapsible_content_7Rx8Gt",
-    "newsletter_MrPDzX"
+    "newsletter_MrPDzX",
+    "collapsible_content_7Rx8Gt"
   ]
 }
