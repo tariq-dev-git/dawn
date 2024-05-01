@@ -105,7 +105,6 @@
         "row_YULPKm": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/V0100794_000_MKT4_819a484a-ecf3-4bbc-b03d-c3d41de55475.jpg",
             "caption": "Nettoyeur à vapeur",
             "heading": "Mamy Fury",
             "text": "<p>Nettoyez votre micro-ondes en 5min avec un simple chiffon.<\/p>",
@@ -253,7 +252,6 @@
         "paragraph_ph3DAp",
         "email_form_VzyWY6"
       ],
-      "disabled": true,
       "settings": {
         "color_scheme": "",
         "full_width": true,
