@@ -12,6 +12,13 @@
             "link": ""
           }
         },
+        "announcement_NQMQNz": {
+          "type": "announcement",
+          "settings": {
+            "text": "🇪🇺 Produits aux \"Normes Européennes\" 🇪🇺",
+            "link": ""
+          }
+        },
         "announcement_jjDVk6": {
           "type": "announcement",
           "settings": {
@@ -26,13 +33,6 @@
             "link": ""
           }
         },
-        "announcement_NQMQNz": {
-          "type": "announcement",
-          "settings": {
-            "text": "🇪🇺 Produits aux \"Normes Européennes\" 🇪🇺",
-            "link": ""
-          }
-        },
         "announcement_9KMxmz": {
           "type": "announcement",
           "settings": {
@@ -43,9 +43,9 @@
       },
       "block_order": [
         "announcement-bar-0",
+        "announcement_NQMQNz",
         "announcement_jjDVk6",
         "announcement_wNiFQp",
-        "announcement_NQMQNz",
         "announcement_9KMxmz"
       ],
       "settings": {
