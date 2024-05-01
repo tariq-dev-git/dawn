@@ -20,7 +20,7 @@
           }
         },
         "trustz_payment_badge_ftk9iK": {
-          "type": "shopify:\/\/apps\/trustz\/blocks\/payment-badge\/539d151e-77d2-4b39-b20d-fbce59dc78c7",
+          "type": "shopify:\/\/apps\/tz-trust-badges-payments-icon\/blocks\/payment-badge\/539d151e-77d2-4b39-b20d-fbce59dc78c7",
           "settings": {
           }
         }
@@ -40,7 +40,7 @@
         "enable_language_selector": false,
         "payment_enable": false,
         "show_policy": false,
-        "margin_top": 48,
+        "margin_top": 0,
         "padding_top": 36,
         "padding_bottom": 36
       }
