@@ -33,6 +33,13 @@
           "settings": {
           }
         },
+        "text_QVHhRg": {
+          "type": "text",
+          "settings": {
+            "text": "Prix TTC, frais de livraison inclus !",
+            "text_style": "body"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -84,6 +91,7 @@
         "caption",
         "judge_me_reviews_preview_badge_anCQ76",
         "price",
+        "text_QVHhRg",
         "description",
         "variant_picker",
         "quantity_selector",
