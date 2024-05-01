@@ -3,7 +3,7 @@
     "featured_collection_MLgGdd": {
       "type": "featured-collection",
       "settings": {
-        "title": "Nos nouveaux articles !",
+        "title": "Articles récemment ajoutés !",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
@@ -15,7 +15,7 @@
         "show_view_all": true,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
-        "color_scheme": "",
+        "color_scheme": "scheme-5",
         "image_ratio": "adapt",
         "image_shape": "default",
         "show_secondary_image": false,
