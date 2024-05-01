@@ -5,7 +5,7 @@
       "settings": {
         "title": "Nouveautés !",
         "heading_size": "h1",
-        "description": "<p>Articles récemment ajoutés :<\/p>",
+        "description": "",
         "show_description": false,
         "description_style": "body",
         "collection": "nos-nouveaux-articles",
