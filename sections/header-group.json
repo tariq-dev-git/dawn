@@ -36,7 +36,7 @@
         "announcement_9KMxmz": {
           "type": "announcement",
           "settings": {
-            "text": "📦 Emballages Résistants et Consolidées 💪",
+            "text": "📦 Emballages Consolidées 💪",
             "link": ""
           }
         }
@@ -64,7 +64,7 @@
         "logo_position": "top-center",
         "menu": "menu-principal",
         "menu_type_desktop": "mega",
-        "sticky_header_type": "on-scroll-up",
+        "sticky_header_type": "none",
         "show_line_separator": true,
         "color_scheme": "scheme-5",
         "menu_color_scheme": "scheme-1",
