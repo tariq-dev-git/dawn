@@ -8,7 +8,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "💫 Livraison offerte pour toute commande supérieur à 24,99€ !",
+            "text": "💫 Livraison offerte ! (Pour une commande minimum de 24,99€)",
             "link": ""
           }
         },
