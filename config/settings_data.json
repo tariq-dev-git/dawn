@@ -236,9 +236,9 @@
       },
       "scheme-51e32c40-8e96-4b61-9042-6bc4ccf43b96": {
         "settings": {
-          "background": "#ffffff",
+          "background": "#353535",
           "background_gradient": "",
-          "text": "#121212",
+          "text": "#ffffff",
           "button": "#121212",
           "button_label": "#ffffff",
           "secondary_button_label": "#121212",
