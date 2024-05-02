@@ -36,8 +36,8 @@
         "text_QVHhRg": {
           "type": "text",
           "settings": {
-            "text": "Prix TTC, frais de livraison inclus !",
-            "text_style": "body"
+            "text": "Prix TTC",
+            "text_style": "subtitle"
           }
         },
         "description": {
