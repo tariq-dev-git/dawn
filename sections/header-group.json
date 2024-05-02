@@ -12,6 +12,13 @@
             "link": ""
           }
         },
+        "announcement_z8Dbhy": {
+          "type": "announcement",
+          "settings": {
+            "text": "🎁 Un cadeau offert à partir de 39,99 € d'achats !",
+            "link": "shopify:\/\/products\/support-gravitationnel-de-telephones-portables-pour-voiture-gravder-innovagoods"
+          }
+        },
         "announcement_NQMQNz": {
           "type": "announcement",
           "settings": {
@@ -43,6 +50,7 @@
       },
       "block_order": [
         "announcement-bar-0",
+        "announcement_z8Dbhy",
         "announcement_NQMQNz",
         "announcement_jjDVk6",
         "announcement_wNiFQp",
