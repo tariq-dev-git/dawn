@@ -171,6 +171,48 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_eTgypy": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_xP8Qgp": {
+          "type": "heading",
+          "settings": {
+            "heading": "Et pleins d'autres encore !",
+            "heading_size": "h1"
+          }
+        },
+        "text_mEdQKE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Voir toutes nos collections<\/p>"
+          }
+        },
+        "button_dUigbK": {
+          "type": "button",
+          "settings": {
+            "button_label": "Nos collections",
+            "button_link": "shopify:\/\/collections",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_xP8Qgp",
+        "text_mEdQKE",
+        "button_dUigbK"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "newsletter_MrPDzX": {
       "type": "newsletter",
       "blocks": {
@@ -282,6 +324,7 @@
     "featured_product_YyMymK",
     "custom_liquid_DjrA3K",
     "multirow_43hnaf",
+    "rich_text_eTgypy",
     "newsletter_MrPDzX",
     "collapsible_content_7Rx8Gt"
   ]
