@@ -82,6 +82,9 @@
     },
     "custom_liquid_DjrA3K": {
       "type": "custom-liquid",
+      "custom_css": [
+
+      ],
       "settings": {
         "custom_liquid": "<h1 style=\"text-align: center;\">Les articles qui ont aussi la côte !<\/h1>",
         "color_scheme": "scheme-4",
