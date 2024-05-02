@@ -29,7 +29,14 @@
         "announcement_jjDVk6": {
           "type": "announcement",
           "settings": {
-            "text": "🚚 Nos Transporteurs : LaPoste, UPS, TNT, GLS avec N° de suivi",
+            "text": "🚚 Nos Transporteurs : LaPoste, UPS, DHL, GLS... avec N° de suivi",
+            "link": ""
+          }
+        },
+        "announcement_6myrbx": {
+          "type": "announcement",
+          "settings": {
+            "text": "Welcome to our store",
             "link": ""
           }
         },
@@ -53,6 +60,7 @@
         "announcement_z8Dbhy",
         "announcement_NQMQNz",
         "announcement_jjDVk6",
+        "announcement_6myrbx",
         "announcement_wNiFQp",
         "announcement_9KMxmz"
       ],
