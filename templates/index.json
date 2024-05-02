@@ -48,12 +48,6 @@
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": true
           }
-        },
-        "share_z7dnHH": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
         }
       },
       "block_order": [
@@ -62,8 +56,7 @@
         "price_U4Bf86",
         "variant_picker_qtCydF",
         "quantity_selector_qV49ry",
-        "buy_buttons_V9tXjj",
-        "share_z7dnHH"
+        "buy_buttons_V9tXjj"
       ],
       "settings": {
         "product": "barbecue-charbon-de-bois-sans-fumee-portable-cleanq-innovagoods",
