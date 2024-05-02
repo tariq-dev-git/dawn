@@ -184,7 +184,7 @@
         "text_mEdQKE": {
           "type": "text",
           "settings": {
-            "text": "<p>Voir toutes nos collections :<\/p>"
+            "text": "<p>Voir nos collections ou tous les articles disponibles :<\/p>"
           }
         },
         "button_dUigbK": {
@@ -196,12 +196,6 @@
             "button_label_2": "Tous les Articles",
             "button_link_2": "",
             "button_style_secondary_2": false
-          }
-        },
-        "text_EwFEnP": {
-          "type": "text",
-          "settings": {
-            "text": ""
           }
         },
         "button_GQxkXF": {
@@ -220,7 +214,6 @@
         "heading_xP8Qgp",
         "text_mEdQKE",
         "button_dUigbK",
-        "text_EwFEnP",
         "button_GQxkXF"
       ],
       "settings": {
