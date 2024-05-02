@@ -3,38 +3,10 @@
     "custom_liquid_UazU3C": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<h1>La Vedette !<\/h1>",
-        "color_scheme": "",
+        "custom_liquid": "<h1 style=\"text-align: center;\">L'article exclu du mois de Mai !<\/h1>",
+        "color_scheme": "scheme-4",
         "padding_top": 40,
         "padding_bottom": 52
-      }
-    },
-    "featured_collection_MLgGdd": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Nouveautés !",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "nos-nouveaux-articles",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "scheme-4",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "featured_product_YyMymK": {
@@ -111,7 +83,7 @@
     "custom_liquid_DjrA3K": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<h1 style=\"text-align: center;\">Les articles qui ont la côte !<\/h1>",
+        "custom_liquid": "<h1 style=\"text-align: center;\">Les articles qui ont aussi la côte !<\/h1>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
@@ -280,7 +252,6 @@
   },
   "order": [
     "custom_liquid_UazU3C",
-    "featured_collection_MLgGdd",
     "featured_product_YyMymK",
     "custom_liquid_DjrA3K",
     "multirow_43hnaf",
