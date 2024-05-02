@@ -92,6 +92,17 @@
     "multirow_43hnaf": {
       "type": "multirow",
       "blocks": {
+        "row_BL7yBF": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/V0103439_000_MKT-v_12.jpg",
+            "caption": "ZENHOMIE",
+            "heading": "Notre Barbecue portable",
+            "text": "<p>Ça y est, c'est le printemps ! Et qui dit printemps, dit barbecue portable ! Léger et pratique, vous n'avez plus qu'à acheter le charbon !<\/p>",
+            "button_label": "Voir l'article",
+            "button_link": "shopify:\/\/products\/barbecue-pliable-portatif-a-charbon-bearbq-innovagoods"
+          }
+        },
         "row_YULPKm": {
           "type": "row",
           "settings": {
@@ -114,32 +125,22 @@
             "button_link": "shopify:\/\/products\/machine-a-popcorn-esperanza-ekp005w-noir"
           }
         },
-        "row_BL7yBF": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/V0103439_000_MKT-v_12.jpg",
-            "caption": "ZENHOMIE",
-            "heading": "Notre Barbecue portable",
-            "text": "<p>Ça y est, c'est le printemps ! Et qui dit printemps, dit barbecue portable ! Léger et pratique, vous n'avez plus qu'à acheter le charbon !<\/p>",
-            "button_label": "Voir l'article",
-            "button_link": "shopify:\/\/products\/barbecue-pliable-portatif-a-charbon-bearbq-innovagoods"
-          }
-        },
         "row_DP4nTa": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
+            "image": "shopify:\/\/shop_images\/V0100816_000_MKT4_aab25bee-4c64-459d-b044-285d9ab4f76c.jpg",
+            "caption": "ZENHOMIE",
+            "heading": "Lampe à LED, tour de cou",
+            "text": "<p>On s'est tous esquinté les yeux au moins une fois en lisant un livre dans notre lit sans lumière ! Pensez à l'haleine de votre opthalmo et mettez dans votre panier cette lampe à LED Tour de cou ou offrez-le à votre entourage !<\/p>",
+            "button_label": "Voir l'article",
+            "button_link": "shopify:\/\/products\/lampe-de-lecture-led-pour-tour-de-cou-nereled-innovagoods"
           }
         }
       },
       "block_order": [
+        "row_BL7yBF",
         "row_YULPKm",
         "row_NMbeVR",
-        "row_BL7yBF",
         "row_DP4nTa"
       ],
       "settings": {
