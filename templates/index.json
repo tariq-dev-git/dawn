@@ -84,9 +84,9 @@
       "type": "custom-liquid",
       "settings": {
         "custom_liquid": "<h1 style=\"text-align: center;\">Les articles qui ont aussi la côte !<\/h1>",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "color_scheme": "scheme-4",
+        "padding_top": 8,
+        "padding_bottom": 8
       }
     },
     "multirow_43hnaf": {
