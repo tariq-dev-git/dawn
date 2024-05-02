@@ -3,10 +3,10 @@
     "custom_liquid_UazU3C": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<h1 style=\"text-align: center;\">L'article exclu du mois de Mai !<\/h1>",
+        "custom_liquid": "<h1 style=\"text-align: center;\">Notre article du mois de Mai !<\/h1>",
         "color_scheme": "scheme-4",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 4,
+        "padding_bottom": 8
       }
     },
     "featured_product_YyMymK": {
@@ -92,15 +92,26 @@
     "multirow_43hnaf": {
       "type": "multirow",
       "blocks": {
-        "row_BL7yBF": {
+        "row_NMbeVR": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/V0103439_000_MKT-v_12.jpg",
-            "caption": "ZENHOMIE",
-            "heading": "Notre Barbecue portable",
-            "text": "<p>Ça y est, c'est le printemps ! Et qui dit printemps, dit barbecue portable ! Léger et pratique, vous n'avez plus qu'à acheter le charbon !<\/p>",
+            "image": "shopify:\/\/shop_images\/5901299930458_S9102431_P00.jpg",
+            "caption": "Zenhomie",
+            "heading": "Machine à Pop-Corns !",
+            "text": "<p><em>\"Je vais prendre les pop-corns !\"<\/em><\/p><p>Ne prenez plus l'expression à la légère ! Et passez des bons moments seul ou avec vos amis avec la  machine à pop-corns Esperanza.<\/p>",
             "button_label": "Voir l'article",
-            "button_link": "shopify:\/\/products\/barbecue-pliable-portatif-a-charbon-bearbq-innovagoods"
+            "button_link": "shopify:\/\/products\/machine-a-popcorn-esperanza-ekp005w-noir"
+          }
+        },
+        "row_W8Qc6j": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/V0100914_000_MKT2_60b5b31c-4a66-4062-8479-a05c7748a104.jpg",
+            "caption": "zenhomie",
+            "heading": "Distributeur de snacks automatique !",
+            "text": "<p>Je vous laisse imaginer le temps que vous allez économiser, quand vous bronzez au bord de la piscine, et la reconnaissance auprès de votre famille, et de vos amis !<\/p>",
+            "button_label": "Voir l'article",
+            "button_link": "shopify:\/\/products\/distributeur-automatique-de-bonbons-et-fruits-secs-mini-innovagoods"
           }
         },
         "row_DP4nTa": {
@@ -114,17 +125,6 @@
             "button_link": "shopify:\/\/products\/lampe-de-lecture-led-pour-tour-de-cou-nereled-innovagoods"
           }
         },
-        "row_NMbeVR": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/5901299930458_S9102431_P00.jpg",
-            "caption": "Zenhomie",
-            "heading": "Machine à Pop-Corns !",
-            "text": "<p><em>\"Je vais prendre les pop-corns !\"<\/em><\/p><p>Ne prenez plus l'expression à la légère ! Et passez des bons moments seul ou avec vos amis avec la  machine à pop-corns Esperanza.<\/p>",
-            "button_label": "Voir l'article",
-            "button_link": "shopify:\/\/products\/machine-a-popcorn-esperanza-ekp005w-noir"
-          }
-        },
         "row_YULPKm": {
           "type": "row",
           "settings": {
@@ -136,24 +136,24 @@
             "button_link": "shopify:\/\/products\/nettoyeur-a-micro-ondes-fuming-mum-innovagoods"
           }
         },
-        "row_W8Qc6j": {
+        "row_BL7yBF": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/V0100914_000_MKT2_60b5b31c-4a66-4062-8479-a05c7748a104.jpg",
-            "caption": "zenhomie",
-            "heading": "Distributeur de snacks automatique !",
-            "text": "<p>Je vous laisse imaginer le temps que vous allez économiser, quand vous bronzez au bord de la piscine, et la reconnaissance auprès de votre famille, et de vos amis !<\/p>",
+            "image": "shopify:\/\/shop_images\/V0103439_000_MKT-v_12.jpg",
+            "caption": "ZENHOMIE",
+            "heading": "Notre Barbecue portable",
+            "text": "<p>Ça y est, c'est le printemps ! Et qui dit printemps, dit barbecue portable ! Léger et pratique, vous n'avez plus qu'à acheter le charbon !<\/p>",
             "button_label": "Voir l'article",
-            "button_link": "shopify:\/\/products\/distributeur-automatique-de-bonbons-et-fruits-secs-mini-innovagoods"
+            "button_link": "shopify:\/\/products\/barbecue-pliable-portatif-a-charbon-bearbq-innovagoods"
           }
         }
       },
       "block_order": [
-        "row_BL7yBF",
-        "row_DP4nTa",
         "row_NMbeVR",
+        "row_W8Qc6j",
+        "row_DP4nTa",
         "row_YULPKm",
-        "row_W8Qc6j"
+        "row_BL7yBF"
       ],
       "settings": {
         "image_height": "medium",
