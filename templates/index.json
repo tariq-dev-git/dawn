@@ -117,10 +117,11 @@
         "row_BL7yBF": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
+            "image": "shopify:\/\/shop_images\/V0103439_000_MKT-v_12.jpg",
+            "caption": "ZENHOMIE",
+            "heading": "Notre Barbecue portable",
+            "text": "<p>Ça y est, c'est le printemps ! Et qui dit printemps, dit barbecue portable ! Léger et pratique, vous n'avez plus qu'à acheter le charbon !<\/p>",
+            "button_label": "Voir l'article",
             "button_link": "shopify:\/\/products\/barbecue-pliable-portatif-a-charbon-bearbq-innovagoods"
           }
         },
