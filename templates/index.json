@@ -201,13 +201,13 @@
         "text_EwFEnP": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Ou voir tous nos articles disponibles :<\/p>"
           }
         },
         "button_GQxkXF": {
           "type": "button",
           "settings": {
-            "button_label": "Ou tous les articles !",
+            "button_label": "Tous les articles",
             "button_link": "",
             "button_style_secondary": false,
             "button_label_2": "",
