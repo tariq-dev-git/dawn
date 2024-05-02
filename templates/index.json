@@ -95,9 +95,10 @@
         "row_YULPKm": {
           "type": "row",
           "settings": {
-            "caption": "Nettoyeur à vapeur",
-            "heading": "Mamy Fury",
-            "text": "<p>Nettoyez votre micro-ondes en 5min avec un simple chiffon.<\/p>",
+            "image": "shopify:\/\/shop_images\/V0100794_000_MKT4.jpg",
+            "caption": "ZENHOMIE",
+            "heading": "Nettoyeur de micro-ondes - Mamy Fury",
+            "text": "<p>Vous en avez marre de frotter l'intérieur de votre micro-ondes avec votre éponge ? Alors n'hésitez plus et laissez Mama Fury s'en occuper !<\/p>",
             "button_label": "Voir l'article",
             "button_link": "shopify:\/\/products\/nettoyeur-a-micro-ondes-fuming-mum-innovagoods"
           }
@@ -109,7 +110,7 @@
             "caption": "Zenhomie",
             "heading": "Machine à Pop-Corns !",
             "text": "<p><em>\"Je vais prendre les pop-corns !\"<\/em><\/p><p>Ne prenez plus l'expression à la légère ! Et passez des bons moments seul ou avec vos amis avec la  machine à pop-corns Esperanza.<\/p>",
-            "button_label": "Voir le produit",
+            "button_label": "Voir l'article",
             "button_link": "shopify:\/\/products\/machine-a-popcorn-esperanza-ekp005w-noir"
           }
         },
@@ -120,10 +121,10 @@
             "heading": "Row",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "button_label": "Button label",
-            "button_link": ""
+            "button_link": "shopify:\/\/products\/barbecue-pliable-portatif-a-charbon-bearbq-innovagoods"
           }
         },
-        "row_McX4PF": {
+        "row_DP4nTa": {
           "type": "row",
           "settings": {
             "caption": "Caption",
@@ -138,7 +139,7 @@
         "row_YULPKm",
         "row_NMbeVR",
         "row_BL7yBF",
-        "row_McX4PF"
+        "row_DP4nTa"
       ],
       "settings": {
         "image_height": "medium",
