@@ -67,7 +67,7 @@
       ],
       "settings": {
         "product": "barbecue-charbon-de-bois-sans-fumee-portable-cleanq-innovagoods",
-        "color_scheme": "",
+        "color_scheme": "scheme-3",
         "secondary_background": false,
         "media_size": "small",
         "constrain_to_viewport": true,
@@ -85,8 +85,8 @@
       "settings": {
         "custom_liquid": "<h1 style=\"text-align: center;\">Les articles qui ont aussi la côte !<\/h1>",
         "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "multirow_43hnaf": {
