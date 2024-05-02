@@ -1,5 +1,14 @@
 {
   "sections": {
+    "custom_liquid_UazU3C": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<h1>La Vedette !<\/h1>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "featured_collection_MLgGdd": {
       "type": "featured-collection",
       "settings": {
@@ -270,6 +279,7 @@
     }
   },
   "order": [
+    "custom_liquid_UazU3C",
     "featured_collection_MLgGdd",
     "featured_product_YyMymK",
     "custom_liquid_DjrA3K",
