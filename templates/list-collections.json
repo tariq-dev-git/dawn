@@ -3,7 +3,7 @@
     "main": {
       "type": "main-list-collections",
       "settings": {
-        "title": "Nos Collections Printemps !",
+        "title": "🛍️ Nos Collections !",
         "sort": "alphabetical",
         "image_ratio": "square",
         "columns_desktop": 3,
