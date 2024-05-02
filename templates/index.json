@@ -103,15 +103,15 @@
             "button_link": "shopify:\/\/products\/barbecue-pliable-portatif-a-charbon-bearbq-innovagoods"
           }
         },
-        "row_YULPKm": {
+        "row_DP4nTa": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/V0100794_000_MKT4.jpg",
+            "image": "shopify:\/\/shop_images\/V0100816_000_MKT4_aab25bee-4c64-459d-b044-285d9ab4f76c.jpg",
             "caption": "ZENHOMIE",
-            "heading": "Nettoyeur de micro-ondes - Mamy Fury",
-            "text": "<p>Vous en avez marre de frotter l'intérieur de votre micro-ondes avec votre éponge ? Alors n'hésitez plus et laissez Mama Fury s'en occuper !<\/p>",
+            "heading": "Lampe à LED, tour de cou",
+            "text": "<p>On s'est tous esquinté les yeux au moins une fois en lisant un livre dans notre lit sans lumière ! Pensez à l'haleine de votre opthalmo et mettez dans votre panier cette lampe à LED Tour de cou ou offrez-le à votre entourage !<\/p>",
             "button_label": "Voir l'article",
-            "button_link": "shopify:\/\/products\/nettoyeur-a-micro-ondes-fuming-mum-innovagoods"
+            "button_link": "shopify:\/\/products\/lampe-de-lecture-led-pour-tour-de-cou-nereled-innovagoods"
           }
         },
         "row_NMbeVR": {
@@ -125,15 +125,15 @@
             "button_link": "shopify:\/\/products\/machine-a-popcorn-esperanza-ekp005w-noir"
           }
         },
-        "row_DP4nTa": {
+        "row_YULPKm": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/V0100816_000_MKT4_aab25bee-4c64-459d-b044-285d9ab4f76c.jpg",
+            "image": "shopify:\/\/shop_images\/V0100794_000_MKT4.jpg",
             "caption": "ZENHOMIE",
-            "heading": "Lampe à LED, tour de cou",
-            "text": "<p>On s'est tous esquinté les yeux au moins une fois en lisant un livre dans notre lit sans lumière ! Pensez à l'haleine de votre opthalmo et mettez dans votre panier cette lampe à LED Tour de cou ou offrez-le à votre entourage !<\/p>",
+            "heading": "Nettoyeur de micro-ondes - Mamy Fury",
+            "text": "<p>Vous en avez marre de frotter l'intérieur de votre micro-ondes avec votre éponge ? Alors n'hésitez plus et laissez Mama Fury s'en occuper !<\/p>",
             "button_label": "Voir l'article",
-            "button_link": "shopify:\/\/products\/lampe-de-lecture-led-pour-tour-de-cou-nereled-innovagoods"
+            "button_link": "shopify:\/\/products\/nettoyeur-a-micro-ondes-fuming-mum-innovagoods"
           }
         },
         "row_W8Qc6j": {
@@ -150,9 +150,9 @@
       },
       "block_order": [
         "row_BL7yBF",
-        "row_YULPKm",
-        "row_NMbeVR",
         "row_DP4nTa",
+        "row_NMbeVR",
+        "row_YULPKm",
         "row_W8Qc6j"
       ],
       "settings": {
@@ -184,7 +184,7 @@
         "paragraph_ph3DAp": {
           "type": "paragraph",
           "settings": {
-            "text": "<ul><li>On vous offre des réductions (jusqu'à -15%) !<\/li><li>Vous profitez en premier de nos nouveautés !<\/li><\/ul><p>Et puis... rien d'autre, après on vous laisse tranquille... 💤<\/p>"
+            "text": "<p>Ça ne vous engage à rien et :<\/p><ul><li>Vous profitez en premier de nos nouveaux articles !<\/li><li>On vous offre des réductions (jusqu'à -15%) !<\/li><li>On vous offre des cadeaux ! <\/li><li>Vous participez à notre développement, et comme on voit grand, vous serez gagnants !<\/li><\/ul><p>Et puis... rien d'autre, après on vous laisse tranquille... 💤<\/p>"
           }
         },
         "email_form_VzyWY6": {
