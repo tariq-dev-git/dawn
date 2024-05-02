@@ -78,6 +78,7 @@
     },
     "custom_liquid_R3yEhT": {
       "type": "custom-liquid",
+      "disabled": true,
       "custom_css": [
         "h1:first-child {color: red;}",
         "h1 {text-align: center;}"
