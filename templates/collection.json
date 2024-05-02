@@ -13,9 +13,9 @@
       "settings": {
         "products_per_page": 16,
         "columns_desktop": 4,
-        "color_scheme": "",
-        "image_ratio": "portrait",
-        "image_shape": "chevronleft",
+        "color_scheme": "scheme-2",
+        "image_ratio": "square",
+        "image_shape": "round",
         "show_secondary_image": true,
         "show_vendor": true,
         "show_rating": false,
