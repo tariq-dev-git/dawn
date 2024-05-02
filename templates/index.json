@@ -184,7 +184,7 @@
         "paragraph_ph3DAp": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Ça ne vous engage à rien et :<\/p><ul><li>Vous profitez en premier de nos nouveaux articles !<\/li><li>On vous offre des réductions (jusqu'à -15%) !<\/li><li>On vous offre des cadeaux ! <\/li><li>Vous participez à notre développement, et comme on voit grand, vous serez gagnants !<\/li><\/ul><p>Et puis... rien d'autre, après on vous laisse tranquille... 💤<\/p>"
+            "text": "<p><em>Ça ne vous engage à rien et :<\/em><\/p><ol><li>On vous avertis quand il y a des <strong>nouveaux articles<\/strong> !<\/li><li>On vous offre des <strong>réductions<\/strong> sur vos futurs achats !<\/li><li>Vous participez à notre développement, et comme on voit grand, vous serez <strong>gagnants<\/strong> !<\/li><\/ol><p><em>Et puis... rien d'autre, après on vous laisse tranquille... 💤<\/em><\/p>"
           }
         },
         "email_form_VzyWY6": {
