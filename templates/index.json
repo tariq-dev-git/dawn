@@ -207,7 +207,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "left",
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-4",
         "full_width": false,
         "padding_top": 28,
         "padding_bottom": 40
@@ -310,7 +310,7 @@
         "heading_alignment": "center",
         "layout": "section",
         "color_scheme": "scheme-1",
-        "container_color_scheme": "scheme-4",
+        "container_color_scheme": "scheme-5",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
