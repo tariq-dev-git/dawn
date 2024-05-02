@@ -99,6 +99,15 @@
         "padding_bottom": 36
       }
     },
+    "custom_liquid_DjrA3K": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<h1 style=\"text-align: center;\">Les articles qui ont la côte !<\/h1>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "multirow_43hnaf": {
       "type": "multirow",
       "blocks": {
@@ -263,6 +272,7 @@
   "order": [
     "featured_collection_MLgGdd",
     "featured_product_YyMymK",
+    "custom_liquid_DjrA3K",
     "multirow_43hnaf",
     "newsletter_MrPDzX",
     "collapsible_content_7Rx8Gt"
