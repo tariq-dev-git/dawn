@@ -193,7 +193,7 @@
             "button_label": "Nos collections",
             "button_link": "shopify:\/\/collections",
             "button_style_secondary": false,
-            "button_label_2": "",
+            "button_label_2": "Tous les Articles",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -201,7 +201,7 @@
         "text_EwFEnP": {
           "type": "text",
           "settings": {
-            "text": "<p>Ou voir tous nos articles disponibles :<\/p>"
+            "text": ""
           }
         },
         "button_GQxkXF": {
