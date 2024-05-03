@@ -5,10 +5,7 @@
     | plus: predictive_search.resources.pages.size
     | plus: predictive_search.resources.articles.size
   %}
-  
   <div id="predictive-search-results" role="listbox">
-
-    
     {%- if first_column_results_size > 0 or predictive_search.resources.products.size > 0 -%}
       <div
         id="predictive-search-results-groups-wrapper"
@@ -65,17 +62,14 @@
         </ul>
       </div>
     {%- endif -%}
-
-        
-        {%- if predictive_search.resources.articles.size > 0 or predictive_search.resources.pages.size > 0 -%}
-
+    {%- if predictive_search.resources.articles.size > 0 or predictive_search.resources.pages.size > 0 -%}
       <div class="predictive-search__pages-wrapper">
         <h2
           id="predictive-search-pages-desktop"
           class="predictive-search__heading text-body caption-with-letter-spacing"
         >
           {{- 'templates.search.pages' | t -}}
-        </h2> 
+        </h2>
         <ul
           id="predictive-search-results-pages-list-desktop"
           class="predictive-search__results-list list-unstyled"
@@ -112,9 +106,7 @@
           {%- endfor -%}
         </ul>
       </div>
-    {%- endif -%} 
-
-        
+    {%- endif -%}
     {%- if first_column_results_size > 0 -%}
       </div>
     {%- endif -%}
@@ -176,8 +168,6 @@
             </ul>
           </div>
         {%- endif -%}
-
-      
         {%- if predictive_search.resources.articles.size > 0 or predictive_search.resources.pages.size > 0 -%}
           <div class="predictive-search__pages-wrapper">
             <h2
@@ -224,9 +214,7 @@
           </div>
         {%- endif -%}
       </div>
-    {%- endif -%} 
-
-        
+    {%- endif -%}
     {%- if first_column_results_size > 0 or predictive_search.resources.products.size > 0 -%}
       </div>
     {%- endif -%}
