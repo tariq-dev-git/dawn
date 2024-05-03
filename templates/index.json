@@ -125,11 +125,12 @@
         "row_aCbKPz": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/V0100904_010_MKT3.jpg",
+            "caption": "💎 Beauté",
+            "heading": "Nos Miroirs Beauté Grossissant à LED",
+            "text": "<p>Jetez un oeil à nos différents set de miroirs de beauté...<\/p>",
             "button_label": "Button label",
-            "button_link": ""
+            "button_link": "shopify:\/\/products\/miroir-grossissant-avec-led-4-in-1-ledflect-innovagoods"
           }
         },
         "row_YULPKm": {
