@@ -153,6 +153,17 @@
             "button_label": "Button label",
             "button_link": "shopify:\/\/products\/montre-femme-ice-ic016296-o-40-mm"
           }
+        },
+        "row_TJLmz9": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4011905036281_S7138987_P12.jpg",
+            "caption": "Animaux",
+            "heading": "Lit pour Animaux - Trixie",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": "shopify:\/\/products\/lit-pour-animal-domestique-trixie-35-x-26-x-41-cm-beige"
+          }
         }
       },
       "block_order": [
@@ -161,7 +172,8 @@
         "row_DP4nTa",
         "row_YULPKm",
         "row_BL7yBF",
-        "row_imBa6w"
+        "row_imBa6w",
+        "row_TJLmz9"
       ],
       "settings": {
         "image_height": "medium",
