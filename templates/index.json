@@ -99,9 +99,41 @@
             "button_link": "shopify:\/\/products\/machine-a-pop-corn-a-air-chaud-popcot-innovagoods"
           }
         },
+        "row_imBa6w": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4895164087419_S0375735_P01.jpg",
+            "caption": "⌚ Montres",
+            "heading": "Montre Ice-Watch - Best-Seller",
+            "text": "<p>Un des modèles phare de la marque belge ! À un prix canon !<\/p>",
+            "button_label": "Voir l'article",
+            "button_link": "shopify:\/\/products\/montre-femme-ice-ic016296-o-40-mm"
+          }
+        },
+        "row_TJLmz9": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/V0103206_050_MKT2.jpg",
+            "caption": "📱 Électronique",
+            "heading": "Notre Table Réglable pour PC !",
+            "text": "<p>Idéale pour travailler où vous voulez ! Avec son plateau souris intégré et ses trous de ventilation pour PC. De conception robuste, elle supporte jusqu'à 15 kg et peut très bien convenir comme table d'appoint !<\/p>",
+            "button_label": "Voir l'article",
+            "button_link": "shopify:\/\/products\/table-reglable-positions-multiples-pour-ordinateur-portable-omnible-innovagoods"
+          }
+        },
+        "row_mdBEnJ": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4971850443865_S0440547_P00.jpg",
+            "caption": "⌚ Montres",
+            "heading": "Montre Casio G-Shock",
+            "text": "<p>Achetez la Casio G-Shock modèle GA-100-1A1ER à un des prix les moins cher d'Internet !<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
         "row_W8Qc6j": {
           "type": "row",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/V0100914_000_MKT2_60b5b31c-4a66-4062-8479-a05c7748a104.jpg",
             "caption": "🇺🇸 Barbecues & Pop-Corns",
@@ -137,7 +169,7 @@
           "type": "row",
           "settings": {
             "image": "shopify:\/\/shop_images\/V0100794_000_MKT4.jpg",
-            "caption": "🍽️ Cuisine",
+            "caption": "💝 Idées Cadeaux",
             "heading": "Nettoyeur de micro-ondes - Mamy Fury",
             "text": "<p>Vous en avez marre de récurer l'intérieur de votre micro-ondes avec votre éponge ? Alors n'hésitez plus et laissez Mama Fury s'en occuper à votre place !<\/p>",
             "button_label": "Voir l'article",
@@ -154,51 +186,18 @@
             "button_label": "Voir l'article",
             "button_link": "shopify:\/\/products\/barbecue-pliable-portatif-a-charbon-bearbq-innovagoods"
           }
-        },
-        "row_imBa6w": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/4895164087419_S0375735_P01.jpg",
-            "caption": "⌚ Montres",
-            "heading": "Montre Ice-Watch - Best-Seller",
-            "text": "<p>Un des modèles phare de la marque belge ! À un prix canon !<\/p>",
-            "button_label": "Voir l'article",
-            "button_link": "shopify:\/\/products\/montre-femme-ice-ic016296-o-40-mm"
-          }
-        },
-        "row_mdBEnJ": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/4971850443865_S0440547_P00.jpg",
-            "caption": "⌚ Montres",
-            "heading": "Montre Casio G-Shock",
-            "text": "<p>Achetez la Casio G-Shock modèle GA-100-1A1ER à un des prix les moins cher d'Internet !<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        },
-        "row_TJLmz9": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/V0103206_050_MKT2.jpg",
-            "caption": "📱 Électronique",
-            "heading": "Notre Table Réglable pour PC !",
-            "text": "<p>Idéale pour travailler où vous voulez ! Avec son plateau souris intégré et ses trous de ventilation pour PC. De conception robuste, elle supporte jusqu'à 15 kg et peut très bien convenir comme table d'appoint !<\/p>",
-            "button_label": "Voir l'article",
-            "button_link": "shopify:\/\/products\/table-reglable-positions-multiples-pour-ordinateur-portable-omnible-innovagoods"
-          }
         }
       },
       "block_order": [
         "row_NMbeVR",
+        "row_imBa6w",
+        "row_TJLmz9",
+        "row_mdBEnJ",
         "row_W8Qc6j",
         "row_DP4nTa",
         "row_aCbKPz",
         "row_YULPKm",
-        "row_BL7yBF",
-        "row_imBa6w",
-        "row_mdBEnJ",
-        "row_TJLmz9"
+        "row_BL7yBF"
       ],
       "settings": {
         "image_height": "medium",
