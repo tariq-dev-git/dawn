@@ -33,13 +33,6 @@
             "link": ""
           }
         },
-        "announcement_6myrbx": {
-          "type": "announcement",
-          "settings": {
-            "text": "Welcome to our store",
-            "link": ""
-          }
-        },
         "announcement_wNiFQp": {
           "type": "announcement",
           "settings": {
@@ -60,7 +53,6 @@
         "announcement_z8Dbhy",
         "announcement_NQMQNz",
         "announcement_jjDVk6",
-        "announcement_6myrbx",
         "announcement_wNiFQp",
         "announcement_9KMxmz"
       ],
