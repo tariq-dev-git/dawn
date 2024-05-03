@@ -82,7 +82,7 @@
           role="group"
           aria-labelledby="predictive-search-pages-desktop"
         >
-          <!-- {%- for page in predictive_search.resources.pages -%}
+          {%- for page in predictive_search.resources.pages -%}
             <li
               id="predictive-search-option-page-desktop-{{ forloop.index }}"
               class="predictive-search__list-item"
@@ -180,7 +180,7 @@
 
       
         {%- if predictive_search.resources.articles.size > 0 or predictive_search.resources.pages.size > 0 -%}
-        <!-- 
+        
           <div class="predictive-search__pages-wrapper">
             <h2
               id="predictive-search-pages-mobile"
