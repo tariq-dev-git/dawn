@@ -165,6 +165,17 @@
             "button_link": "shopify:\/\/products\/montre-femme-ice-ic016296-o-40-mm"
           }
         },
+        "row_mdBEnJ": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4971850443865_S0440547_P00.jpg",
+            "caption": "⌚ Montres",
+            "heading": "Montre Casio G-Shock",
+            "text": "<p>Achetez la Casio G-Shock modèle GA-100-1A1ER à un des prix les moins cher d'Internet !<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
         "row_TJLmz9": {
           "type": "row",
           "settings": {
@@ -185,6 +196,7 @@
         "row_YULPKm",
         "row_BL7yBF",
         "row_imBa6w",
+        "row_mdBEnJ",
         "row_TJLmz9"
       ],
       "settings": {
