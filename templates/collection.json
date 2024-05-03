@@ -20,7 +20,7 @@
         "show_vendor": false,
         "show_rating": false,
         "quick_add": "none",
-        "enable_filtering": true,
+        "enable_filtering": false,
         "filter_type": "horizontal",
         "enable_sorting": true,
         "columns_mobile": "2",
