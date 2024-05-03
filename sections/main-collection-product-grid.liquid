@@ -123,6 +123,7 @@
           data-cascade
         {% endif %}
       >
+        
         {%- if collection.products.size == 0 -%}
           <div class="collection collection--empty page-width" id="product-grid" data-id="{{ section.id }}">
             <div class="loading-overlay gradient"></div>
@@ -141,6 +142,7 @@
           <div
             class="collection{% if section.settings.filter_type != 'vertical' %} page-width{% endif %}"
             data-id="{{ section.id }}"
+            id="product-grid"
           >
             <div class="loading-overlay gradient"></div>
             <ul
@@ -151,6 +153,7 @@
               "
               role="list"
             >
+              
               {%- for product in collection.products -%}
                 {% assign lazy_load = false %}
                 {%- if forloop.index > 2 -%}
@@ -188,6 +191,7 @@
   {% if section.settings.image_shape == 'arch' %}
     {% render 'mask-arch' %}
   {%- endif -%}
+  
 </div>
 
 {% schema %}
