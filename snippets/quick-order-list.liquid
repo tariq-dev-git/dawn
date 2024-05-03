@@ -1,5 +1,5 @@
 {% comment %} TODO: enable theme-check once `line_items_for` is accepted as valid filter {% endcomment %}
-{% # theme-check-enable %}
+{% # theme-check-disable %}
 {%- assign items_in_cart = cart | line_items_for: product | sum: 'quantity' -%}
 {% # theme-check-enable %}
 <div class="color-{{ section.settings.color_scheme }}{% unless is_modal %} gradient{% endunless %}">
