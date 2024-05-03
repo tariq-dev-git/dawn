@@ -80,7 +80,7 @@
       ],
       "settings": {
         "custom_liquid": "<h1 style=\"text-align: center;\">Les articles qui ont aussi la côte !<\/h1>",
-        "color_scheme": "scheme-4",
+        "color_scheme": "scheme-5",
         "padding_top": 8,
         "padding_bottom": 8
       }
