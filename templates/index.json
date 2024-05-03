@@ -251,7 +251,7 @@
           "settings": {
             "heading": "Quelles sont les garanties des produits ?",
             "icon": "clipboard",
-            "row_content": "<p>Nos articles sont couverts par la garantie légale de conformité et la garantie légale contre les vices cachés ainsi prévus par le Code de la consommation : articles L217-3 à L217-20 et articles L217-1 à L217-2.<\/p><p>De plus, vous bénéficiez après le délai de rétractation de 30 jours terminé, de la Garantie Constructeur sur votre article (voir notices Garantie Constructeur)<\/p>",
+            "row_content": "<p>Nos articles sont couverts par la garantie légale de conformité et la garantie légale contre les vices cachés ainsi prévus par le Code de la consommation : articles L217-3 à L217-20 et articles L217-1 à L217-2.<\/p><p>De plus, tous nos produits sont garantis 2 ans conformément à la loi européenne.<\/p>",
             "page": ""
           }
         },
@@ -260,7 +260,7 @@
           "settings": {
             "heading": "Je souhaite me faire rembourser, comment faire ?",
             "icon": "question_mark",
-            "row_content": "<p>Il vous suffit de remplir le formulaire sur cette page : <a href=\"\/pages\/retourner-un-produit\" title=\"Retourner un produit\">Retourner un produit<\/a><\/p>",
+            "row_content": "<p>À compter de la réception de votre commande, vous disposez de 30 jours pour nous adresser une demande de remboursement.<\/p><p>Il vous suffit de remplir le formulaire sur cette page : <a href=\"\/pages\/retourner-un-produit\" title=\"Retourner un produit\">Retourner un produit<\/a><\/p>",
             "page": ""
           }
         },
