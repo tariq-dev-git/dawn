@@ -259,8 +259,7 @@
                   {%- if forloop.index > 2 -%}
                     {%- assign lazy_load = true -%}
                   {%- endif -%}
-                  {% if item.object_type == 'page' %}
-                  {% else %}
+
                   <li
                     class="grid__item{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}"
                     {% if settings.animations_reveal_on_scroll %}
@@ -310,11 +309,9 @@
                               </div>
                             </div>
                           </div>
-                        </div>                      
+                        </div>
                     {%- endcase -%}
                   </li>
-                    <!-- SUPPRIMER CE ENDIF dessous POUR AFFICHER LES PAGES DES LES RÉSULTATS DE RECHERCHE -->
-                    {% endif %}
                 {%- endfor -%}
               </ul>
               {%- if paginate.pages > 1 -%}
