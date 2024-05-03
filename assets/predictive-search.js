@@ -30,7 +30,7 @@ class PredictiveSearch extends SearchForm {
     if (!this.searchTerm || !newSearchTerm.startsWith(this.searchTerm)) {
       // Remove the results when they are no longer relevant for the new search term
       // so they don't show up when the dropdown opens again
-      this.querySelector('#predictive-search-results-groups-wrapper')?.remove();
+      // this.querySelector('#predictive-search-results-groups-wrapper')?.remove();
     }
 
     // Update the term asap, don't wait for the predictive search query to finish loading
