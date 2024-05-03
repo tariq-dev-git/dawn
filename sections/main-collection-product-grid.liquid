@@ -118,6 +118,7 @@
       <div
         class="product-grid-container{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}"
         id="ProductGridContainer"
+        data-id="{{ section.id }}"
         {% if settings.animations_reveal_on_scroll %}
           data-cascade
         {% endif %}
@@ -148,6 +149,7 @@
                 grid product-grid grid--{{ section.settings.columns_mobile }}-col-tablet-down
                 grid--{{ section.settings.columns_desktop }}-col-desktop
               "
+              role="list"
             >
               {%- for product in collection.products -%}
                 {% assign lazy_load = false %}
