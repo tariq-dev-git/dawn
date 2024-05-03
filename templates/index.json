@@ -92,7 +92,7 @@
           "type": "row",
           "settings": {
             "image": "shopify:\/\/shop_images\/V0103525_000_MKT4.jpg",
-            "caption": "🇺🇸 Barbecues & Pop-Corns",
+            "caption": "",
             "heading": "Machine à Pop-Corns !",
             "text": "<p><em>\"Je vais chercher les pop-corns !\"<\/em><\/p><p>Ne prenez plus l'expression à la légère ! Et passez des bons moments festifs avec vos amis avec cette  machine à pop-corns à air chaud !<\/p>",
             "button_label": "Voir l'article",
@@ -101,6 +101,7 @@
         },
         "row_W8Qc6j": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/V0100914_000_MKT2_60b5b31c-4a66-4062-8479-a05c7748a104.jpg",
             "caption": "🇺🇸 Barbecues & Pop-Corns",
