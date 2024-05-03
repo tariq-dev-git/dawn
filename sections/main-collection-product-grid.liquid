@@ -143,7 +143,7 @@
           >
             <div class="loading-overlay gradient"></div>
             <ul
-              id="product-grid"
+              id="ProductGrid"
               class="
                 grid product-grid grid--{{ section.settings.columns_mobile }}-col-tablet-down
                 grid--{{ section.settings.columns_desktop }}-col-desktop
@@ -175,8 +175,6 @@
                 </li>
               {%- endfor -%}
             </ul>
-              <div class="product-grid-container" id="ProductGridContainer">
-              </div>
             {%- if paginate.pages > 1 -%}
               {% render 'pagination', paginate: paginate, anchor: '' %}
             {%- endif -%}
