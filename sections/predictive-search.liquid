@@ -2,10 +2,11 @@
 {%- if predictive_search.performed -%}
   {% assign first_column_results_size = predictive_search.resources.queries.size
     | plus: predictive_search.resources.collections.size
+    | plus: predictive_search.resources.pages.size
   %}
 
 <!-- AJOUTER CES 2 LIGNES: 
-    | plus: predictive_search.resources.pages.size
+    
     | plus: predictive_search.resources.articles.size
   -->
   
