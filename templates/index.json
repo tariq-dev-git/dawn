@@ -326,7 +326,7 @@
           "settings": {
             "heading": "Quels sont les moyens de paiement disponibles ?",
             "icon": "price_tag",
-            "row_content": "<ul><li>Paiement par cartes bancaires : Visa, Mastercard et American Express.<\/li><li>Paiement sécurisé par Paypal et Apple Pay.<\/li><\/ul><p>Les paiements par cartes bancaires transitent par la Plateforme Stripe.<\/p>",
+            "row_content": "<ul><li>Paiement par cartes bancaires : Visa, Mastercard et American Express.<\/li><li>Paiement sécurisé par Paypal et Apple Pay.<\/li><\/ul><p>\"Les paiements par cartes bancaires transitent par la Plateforme Stripe.\"<\/p>",
             "page": ""
           }
         },
