@@ -102,6 +102,23 @@
         "padding_bottom": 68
       }
     },
+    "1714810338b134ac3f": {
+      "type": "apps",
+      "blocks": {
+        "tranh_social_media_share_bar_app_block_6EEFkk": {
+          "type": "shopify:\/\/apps\/tranh-social-media-share-bar\/blocks\/app-block\/671b3682-2d3c-4954-8de4-2fd7ae8cd75e",
+          "settings": {
+            "pr_social_share": "{}"
+          }
+        }
+      },
+      "block_order": [
+        "tranh_social_media_share_bar_app_block_6EEFkk"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "171480786553802615": {
       "type": "apps",
       "blocks": {
@@ -139,6 +156,7 @@
   },
   "order": [
     "main",
+    "1714810338b134ac3f",
     "171480786553802615",
     "related-products"
   ]
