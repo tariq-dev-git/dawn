@@ -60,13 +60,6 @@
             "show_inventory_quantity": true
           }
         },
-        "buy_buttons_3dJPgP": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
-          }
-        },
         "tz_trust_badges_payments_icon_shipping_information_yt86RP": {
           "type": "shopify:\/\/apps\/tz-trust-badges-payments-icon\/blocks\/shipping-information\/539d151e-77d2-4b39-b20d-fbce59dc78c7",
           "settings": {
@@ -83,7 +76,6 @@
         "variant_picker",
         "quantity_selector",
         "inventory_wk9Npi",
-        "buy_buttons_3dJPgP",
         "tz_trust_badges_payments_icon_shipping_information_yt86RP"
       ],
       "settings": {
