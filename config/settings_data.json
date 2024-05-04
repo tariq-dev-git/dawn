@@ -182,6 +182,12 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "11549439387117343914": {
+        "type": "shopify:\/\/apps\/helpy-social-media-icons\/blocks\/app-embed\/583272e0-7173-47be-b571-6b597239b999",
+        "disabled": false,
+        "settings": {
+        }
       }
     },
     "color_schemes": {
