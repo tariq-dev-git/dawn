@@ -67,12 +67,6 @@
             "show_gift_card_recipient": true
           }
         },
-        "custom_liquid_7VVqCY": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<div class=\"sharethis-inline-share-buttons\"><\/div>"
-          }
-        },
         "tz_trust_badges_payments_icon_shipping_information_yt86RP": {
           "type": "shopify:\/\/apps\/tz-trust-badges-payments-icon\/blocks\/shipping-information\/539d151e-77d2-4b39-b20d-fbce59dc78c7",
           "settings": {
@@ -90,7 +84,6 @@
         "quantity_selector",
         "inventory_wk9Npi",
         "buy_buttons_3dJPgP",
-        "custom_liquid_7VVqCY",
         "tz_trust_badges_payments_icon_shipping_information_yt86RP"
       ],
       "settings": {
