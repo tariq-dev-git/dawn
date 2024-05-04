@@ -146,12 +146,6 @@
         "settings": {
         }
       },
-      "14060646107696862457": {
-        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "3842503713604335150": {
         "type": "shopify:\/\/apps\/vify-order-printer\/blocks\/invoice_download_embed\/8e413796-b0ed-4419-ae4e-893123b931a9",
         "disabled": true,
@@ -180,6 +174,12 @@
       "5134484470793087125": {
         "type": "shopify:\/\/apps\/vitals\/blocks\/app-embed\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
         "disabled": false,
+        "settings": {
+        }
+      },
+      "14060646107696862457": {
+        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "disabled": true,
         "settings": {
         }
       }
