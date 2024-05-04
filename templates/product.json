@@ -79,11 +79,6 @@
             "custom_liquid": "<div class=\"sharethis-inline-share-buttons\"><\/div>"
           }
         },
-        "tz_trust_badges_payments_icon_refund_information_QxqeBA": {
-          "type": "shopify:\/\/apps\/tz-trust-badges-payments-icon\/blocks\/refund-information\/539d151e-77d2-4b39-b20d-fbce59dc78c7",
-          "settings": {
-          }
-        },
         "tz_trust_badges_payments_icon_shipping_information_yt86RP": {
           "type": "shopify:\/\/apps\/tz-trust-badges-payments-icon\/blocks\/shipping-information\/539d151e-77d2-4b39-b20d-fbce59dc78c7",
           "settings": {
@@ -103,7 +98,6 @@
         "inventory_wk9Npi",
         "buy_buttons_3dJPgP",
         "custom_liquid_7VVqCY",
-        "tz_trust_badges_payments_icon_refund_information_QxqeBA",
         "tz_trust_badges_payments_icon_shipping_information_yt86RP"
       ],
       "settings": {
@@ -122,46 +116,27 @@
         "padding_bottom": 12
       }
     },
-    "1712341980e614d7f8": {
-      "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_xFM8Wz": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_xFM8Wz"
-      ],
-      "disabled": true,
-      "settings": {
-        "include_margins": true
-      }
-    },
     "related-products": {
       "type": "related-products",
-      "disabled": true,
       "settings": {
-        "heading": "You may also like",
+        "heading": "🔍 Articles semblables",
         "heading_size": "h2",
         "products_to_show": 4,
         "columns_desktop": 4,
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-51e32c40-8e96-4b61-9042-6bc4ccf43b96",
         "image_ratio": "square",
         "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": true,
         "columns_mobile": "2",
-        "padding_top": 36,
+        "padding_top": 32,
         "padding_bottom": 28
       }
     }
   },
   "order": [
     "main",
-    "1712341980e614d7f8",
     "related-products"
   ]
 }
