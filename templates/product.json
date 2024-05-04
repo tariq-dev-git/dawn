@@ -112,7 +112,7 @@
     "related-products": {
       "type": "related-products",
       "settings": {
-        "heading": "🔍 Articles proposés",
+        "heading": "🔍 Articles récemment consultés",
         "heading_size": "h2",
         "products_to_show": 4,
         "columns_desktop": 4,
