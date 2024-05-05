@@ -22,7 +22,7 @@
         "announcement_NQMQNz": {
           "type": "announcement",
           "settings": {
-            "text": "🇪🇺 Tous nos produits certifiés \"UE\" - Garantie 2 ans",
+            "text": "Garantie 2 ans sur tous nos articles",
             "link": ""
           }
         },
@@ -47,6 +47,13 @@
             "link": ""
           }
         },
+        "announcement_YRCEfV": {
+          "type": "announcement",
+          "settings": {
+            "text": "🇪🇺 Produits Certifiés \"UE\"",
+            "link": ""
+          }
+        },
         "announcement_9KMxmz": {
           "type": "announcement",
           "settings": {
@@ -62,6 +69,7 @@
         "announcement_Ji8TdX",
         "announcement_jjDVk6",
         "announcement_wNiFQp",
+        "announcement_YRCEfV",
         "announcement_9KMxmz"
       ],
       "settings": {
