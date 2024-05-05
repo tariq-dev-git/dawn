@@ -146,10 +146,11 @@
         "row_WUUV9V": {
           "type": "row",
           "settings": {
+            "image": "shopify:\/\/shop_images\/4046664081913_S7176651_P01.jpg",
             "caption": "🌳 Extérieur & Piscines",
             "heading": "Tondeuse à Gazon Essence - \"Scheppach\"",
-            "text": "<p>Une Tondeuse fiable et robuste à quatre temps, à seulement 169,99 € !<\/p>",
-            "button_label": "Button label",
+            "text": "<p>Une Tondeuse de marque de 2000, Fiable et robuste à quatre temps, à seulement 169,99 € !<\/p>",
+            "button_label": "Voir l'article",
             "button_link": "shopify:\/\/products\/tondeuse-a-gazon-a-essence-scheppach-mp132-42-2500-w"
           }
         },
