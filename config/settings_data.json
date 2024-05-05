@@ -118,10 +118,11 @@
     "cart_drawer_collection": "best-sellings",
     "checkout_header_image": "shopify:\/\/shop_images\/city-behind-greenery.jpg",
     "checkout_logo_image": "shopify:\/\/shop_images\/zen-homie-jpg.jpg",
-    "checkout_logo_position": "right",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "large",
     "checkout_body_background_color": "#f3f3f3",
     "checkout_input_background_color_mode": "white",
-    "checkout_sidebar_background_color": "#233f63",
+    "checkout_sidebar_background_color": "#2b75cb",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
@@ -231,7 +232,7 @@
       },
       "scheme-5": {
         "settings": {
-          "background": "#0d60c1",
+          "background": "#0f66cc",
           "background_gradient": "",
           "text": "#ffffff",
           "button": "#ffffff",
