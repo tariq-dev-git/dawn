@@ -172,7 +172,7 @@
             "caption": "💎 Beauté",
             "heading": "Nos Miroirs Beauté Grossissant à LED",
             "text": "<p>Jetez un œil à nos différents set de miroirs de beauté grossissants...<\/p>",
-            "button_label": "Button label",
+            "button_label": "Voir l'article",
             "button_link": "shopify:\/\/products\/miroir-grossissant-avec-led-4-in-1-ledflect-innovagoods"
           }
         },
@@ -190,7 +190,6 @@
         },
         "row_BL7yBF": {
           "type": "row",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/V0103439_000_MKT-v_12.jpg",
             "caption": "🇺🇸 Barbecues & Pop-Corns",
