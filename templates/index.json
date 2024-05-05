@@ -235,7 +235,7 @@
         "heading_xP8Qgp": {
           "type": "heading",
           "settings": {
-            "heading": "Et pleins d'autres articles encore !",
+            "heading": "Et pleins d'autres articles !",
             "heading_size": "h1"
           }
         },
@@ -265,7 +265,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "left",
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-5",
         "full_width": false,
         "padding_top": 28,
         "padding_bottom": 40
