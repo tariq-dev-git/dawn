@@ -266,9 +266,9 @@
         "desktop_content_position": "center",
         "content_alignment": "left",
         "color_scheme": "scheme-5",
-        "full_width": false,
-        "padding_top": 28,
-        "padding_bottom": 40
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 56
       }
     },
     "newsletter_MrPDzX": {
