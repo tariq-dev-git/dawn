@@ -19,17 +19,17 @@
             "link": "shopify:\/\/products\/support-gravitationnel-de-telephones-portables-pour-voiture-gravder-innovagoods"
           }
         },
-        "announcement_NQMQNz": {
-          "type": "announcement",
-          "settings": {
-            "text": "📋 Garantie 2 ans sur tous nos articles !",
-            "link": ""
-          }
-        },
         "announcement_Ji8TdX": {
           "type": "announcement",
           "settings": {
             "text": "✅ Satisfait ou Remboursé - Garantie 30 jours ⌛",
+            "link": ""
+          }
+        },
+        "announcement_NQMQNz": {
+          "type": "announcement",
+          "settings": {
+            "text": "📋 Garantie 2 ans sur tous nos articles !",
             "link": ""
           }
         },
@@ -65,8 +65,8 @@
       "block_order": [
         "announcement-bar-0",
         "announcement_z8Dbhy",
-        "announcement_NQMQNz",
         "announcement_Ji8TdX",
+        "announcement_NQMQNz",
         "announcement_jjDVk6",
         "announcement_wNiFQp",
         "announcement_YRCEfV",
