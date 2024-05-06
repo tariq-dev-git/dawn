@@ -5,6 +5,14 @@
   --alpha-badge-border: 0.1;
 }
 
+/* perso */
+
+
+  .titre-principal {
+    font-family: 'Poetsen_One', serif;
+    color: red;
+}
+
 .product-card-wrapper .card,
 .contains-card--product {
   --border-radius: var(--product-card-corner-radius);
