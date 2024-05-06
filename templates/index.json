@@ -3,7 +3,7 @@
     "custom_liquid_UazU3C": {
       "type": "custom-liquid",
       "custom_css": [
-
+        ".titre principal {background: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0822\/5767\/4589\/files\/Article_du_mois.png?v=1714965601\");}"
       ],
       "settings": {
         "custom_liquid": "<span class=\"titre-principal\"><\/span>",
