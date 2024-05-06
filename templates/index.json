@@ -8,7 +8,7 @@
         "@media screen and (max-width: 1199px) {div div {background: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0822\/5767\/4589\/files\/Article_du_mois-mini1.png?v=1714970089\"); max-width: 420px; background-position-x: -30px; padding-top: 5px; }}"
       ],
       "settings": {
-        "custom_liquid": "<div class=\"div-annonce1\"><div class=\"annonce\"><\/div><\/div>",
+        "custom_liquid": "<div class=\"div-annonce1\"><div class=\"annonce1\"><\/div><\/div>",
         "color_scheme": "scheme-4",
         "padding_top": 4,
         "padding_bottom": 8
@@ -82,8 +82,8 @@
       "type": "custom-liquid",
       "custom_css": [
         "div {height: 160px; width: 100%; margin: auto; background: black;}",
-        "div div {background: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0822\/5767\/4589\/files\/Article_du_mois-grand.png?v=1714969869\"); max-width: 1200px; margin: auto; background-repeat: no-repeat;}",
-        "@media screen and (max-width: 1199px) {div div {background: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0822\/5767\/4589\/files\/Article_du_mois-mini1.png?v=1714970089\"); max-width: 420px; background-position-x: -30px; padding-top: 5px; }}"
+        "div div {background: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0822\/5767\/4589\/files\/top-articles-grand.png?v=1714972204\"); max-width: 1200px; margin: auto; background-repeat: no-repeat;}",
+        "@media screen and (max-width: 1199px) {div div {background: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0822\/5767\/4589\/files\/top-articles-mini.png?v=1714972203\"); max-width: 420px; background-position-x: -30px; padding-top: 5px; }}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"div-annonce2\"><div class=\"annonce2\"><\/div><\/div>",
