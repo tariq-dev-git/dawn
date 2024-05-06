@@ -3,9 +3,9 @@
     "custom_liquid_UazU3C": {
       "type": "custom-liquid",
       "custom_css": [
-        "div {height: 160px; width: 100%; margin: auto; background: black; }",
-        " div div {background: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0822\/5767\/4589\/files\/Article_du_mois.png?v=1714965601'); max-width: 1200px; min-width: 1200px; margin: auto; background-repeat: no-repeat; }",
-        " @media screen and (max-width: 800px) {div div {background: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0822\/5767\/4589\/files\/Design_sans_titre.png?v=1714967915'); } }"
+        "div {height: 160px; width: 100%; margin: auto; background: black;}",
+        "div div {background: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0822\/5767\/4589\/files\/Article_du_mois.png?v=1714965601\"); max-width: 1200px; min-width: 1200px; margin: auto; background-repeat: no-repeat;}",
+        "@media screen and (max-width: 1199px) {div div {background: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0822\/5767\/4589\/files\/Design_sans_titre.png?v=1714967915\"); background-size: contain; }}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"div-annonce\"><div class=\"annonce\"><\/div><\/div>",
