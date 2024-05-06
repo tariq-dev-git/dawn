@@ -3,11 +3,11 @@
     "custom_liquid_UazU3C": {
       "type": "custom-liquid",
       "custom_css": [
-        "div {margin: 0 auto; height: 160px; width: 1200px; background: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0822\/5767\/4589\/files\/Article_du_mois.png?v=1714965601\");}"
+        ".annonce1 {height: 160px; margin: 0 auto; background: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0822\/5767\/4589\/files\/Article_du_mois.png?v=1714965601\");}"
       ],
       "settings": {
-        "custom_liquid": "<div class=\"annonce\"><\/div>",
-        "color_scheme": "scheme-2",
+        "custom_liquid": "<div class=\"annonce1\"><\/div>",
+        "color_scheme": "scheme-4",
         "padding_top": 4,
         "padding_bottom": 8
       }
