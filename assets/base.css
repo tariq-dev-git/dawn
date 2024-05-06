@@ -7,6 +7,12 @@
 
 /* perso */
 @media-screen and (max-width: 1190px) {
+  .div-annonce {
+      height: 170px;
+  width: 100%;
+  margin: auto;
+  background: black;
+  }
 .annonce {
     background: url("https://cdn.shopify.com/s/files/1/0822/5767/4589/files/Design_sans_titre.png?v=1714967915");
   max-width: 1200px;
