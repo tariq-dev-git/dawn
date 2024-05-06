@@ -81,9 +81,9 @@
     "featured_collection_3FrnA4": {
       "type": "featured-collection",
       "settings": {
-        "title": "Les Montres pour le mois de mai ...",
+        "title": "La Collection Montres ⌚ pour le mois !",
         "heading_size": "h1",
-        "description": "",
+        "description": "<p>À vraiment petit prix !<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "⌚-montres",
