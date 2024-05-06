@@ -64,7 +64,7 @@
         "buy_buttons_V9tXjj"
       ],
       "settings": {
-        "product": "barbecue-charbon-de-bois-sans-fumee-portable-cleanq-innovagoods",
+        "product": "montre-unisexe-casio-g-shock-ga-100-1a1er",
         "color_scheme": "scheme-2",
         "secondary_background": false,
         "media_size": "small",
@@ -93,6 +93,17 @@
     "multirow_43hnaf": {
       "type": "multirow",
       "blocks": {
+        "row_TJLmz9": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/V0103206_050_MKT2.jpg",
+            "caption": "📱 Électronique",
+            "heading": "Notre Table Réglable pour PC !",
+            "text": "<p>Idéale pour travailler où vous voulez ! Avec son plateau souris intégré et ses trous de ventilation pour PC. De conception robuste, elle supporte jusqu'à 15 kg et peut très bien convenir comme table d'appoint !<\/p>",
+            "button_label": "Voir l'article",
+            "button_link": "shopify:\/\/products\/table-reglable-positions-multiples-pour-ordinateur-portable-omnible-innovagoods"
+          }
+        },
         "row_NMbeVR": {
           "type": "row",
           "settings": {
@@ -115,19 +126,9 @@
             "button_link": "shopify:\/\/products\/montre-femme-ice-ic016296-o-40-mm"
           }
         },
-        "row_TJLmz9": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/V0103206_050_MKT2.jpg",
-            "caption": "📱 Électronique",
-            "heading": "Notre Table Réglable pour PC !",
-            "text": "<p>Idéale pour travailler où vous voulez ! Avec son plateau souris intégré et ses trous de ventilation pour PC. De conception robuste, elle supporte jusqu'à 15 kg et peut très bien convenir comme table d'appoint !<\/p>",
-            "button_label": "Voir l'article",
-            "button_link": "shopify:\/\/products\/table-reglable-positions-multiples-pour-ordinateur-portable-omnible-innovagoods"
-          }
-        },
         "row_mdBEnJ": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/4971850443865_S0440547_P00.jpg",
             "caption": "⌚ Montres",
@@ -154,7 +155,7 @@
             "image": "shopify:\/\/shop_images\/4046664081913_S7176651_P01.jpg",
             "caption": "🌳 Extérieur & Piscines",
             "heading": "Tondeuse à Gazon Essence - \"Scheppach\"",
-            "text": "<p>Une Tondeuse de marque de 2000, Fiable et robuste à quatre temps, à seulement 169,99 € !<\/p>",
+            "text": "<p>Une Tondeuse à 4 temps de marque de Puissance 2000 W, fiable et robuste, à seulement 169,99 € !<\/p>",
             "button_label": "Voir l'article",
             "button_link": "shopify:\/\/products\/tondeuse-a-gazon-a-essence-scheppach-mp132-42-2500-w"
           }
@@ -206,9 +207,9 @@
         }
       },
       "block_order": [
+        "row_TJLmz9",
         "row_NMbeVR",
         "row_imBa6w",
-        "row_TJLmz9",
         "row_mdBEnJ",
         "row_W8Qc6j",
         "row_WUUV9V",
