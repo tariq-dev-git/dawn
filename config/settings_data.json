@@ -165,12 +165,6 @@
           "marginRight": 10
         }
       },
-      "4804304946286255945": {
-        "type": "shopify:\/\/apps\/avada-cookie-consent\/blocks\/app-embed\/deacc407-65bc-4a4e-84d9-f90e9e492cf3",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "5134484470793087125": {
         "type": "shopify:\/\/apps\/vitals\/blocks\/app-embed\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
         "disabled": false,
@@ -179,6 +173,12 @@
       },
       "17015914527487215419": {
         "type": "shopify:\/\/apps\/social-bar-social-media-icons\/blocks\/app-embed-block\/9fa0e3ae-e886-45de-b5f6-ebc43b943c19",
+        "disabled": true,
+        "settings": {
+        }
+      },
+      "4804304946286255945": {
+        "type": "shopify:\/\/apps\/avada-cookie-consent\/blocks\/app-embed\/deacc407-65bc-4a4e-84d9-f90e9e492cf3",
         "disabled": true,
         "settings": {
         }
