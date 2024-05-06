@@ -7,13 +7,13 @@
 
 /* perso */
 @media-screen and (max-width: 1190px) {
-  .div-annonce {
+  shopify-section-template--22409084961117__custom_liquid_UazU3C div {
       height: 170px;
   width: 100%;
   margin: auto;
   background: black;
   }
-.annonce {
+shopify-section-template--22409084961117__custom_liquid_UazU3C  div div {
     background: url("https://cdn.shopify.com/s/files/1/0822/5767/4589/files/Design_sans_titre.png?v=1714967915");
   max-width: 1200px;
   min-width: 100%;
