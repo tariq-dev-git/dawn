@@ -1,5 +1,37 @@
 {
   "sections": {
+    "17150346726cea3579": {
+      "type": "apps",
+      "blocks": {
+        "zipcode_validator_by_cc_star_rating_naQkAG": {
+          "type": "shopify:\/\/apps\/zipcode-validator-by-cc\/blocks\/star_rating\/5e30242c-f9b7-44c6-8319-f87b43734781",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "zipcode_validator_by_cc_star_rating_naQkAG"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "171503468583d83aea": {
+      "type": "apps",
+      "blocks": {
+        "easy_zipcode_check_validate_app_block_qCDAWM": {
+          "type": "shopify:\/\/apps\/easy-zipcode-check-validate\/blocks\/app-block\/0aee76b4-6928-4f3f-aff6-81beaca5418d",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "easy_zipcode_check_validate_app_block_qCDAWM"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -155,6 +187,8 @@
     }
   },
   "order": [
+    "17150346726cea3579",
+    "171503468583d83aea",
     "main",
     "1714810338b134ac3f",
     "171480786553802615",
