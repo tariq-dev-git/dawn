@@ -166,7 +166,7 @@
       },
       "806993175287456481": {
         "type": "shopify:\/\/apps\/zox-delivery-check\/blocks\/widgetmodal\/8f113172-96a1-4cb7-8226-cd8f9d4d37cd",
-        "disabled": false,
+        "disabled": true,
         "settings": {
         }
       }
