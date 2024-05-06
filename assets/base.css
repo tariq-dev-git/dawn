@@ -15,7 +15,6 @@
   }
 shopify-section-template--22409084961117__custom_liquid_UazU3C  div div {
     background: url("https://cdn.shopify.com/s/files/1/0822/5767/4589/files/Design_sans_titre.png?v=1714967915");
-  max-width: 1200px;
   min-width: 100%;
   margin: auto;
   background-repeat: no-repeat;
@@ -24,6 +23,10 @@ shopify-section-template--22409084961117__custom_liquid_UazU3C  div div {
 }
 shopify-section-template--22409084961117__custom_liquid_UazU3C  div div { 
   background: url("https://cdn.shopify.com/s/files/1/0822/5767/4589/files/Article_du_mois.png?v=1714965601");
+  max-width: 1200px;
+    margin: auto;
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
 
