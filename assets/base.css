@@ -7,10 +7,11 @@
 
 /* perso */
 
-  .titre-principal {
-    font-family: 'Poetsen_One', serif;
+.annonce {
+    /* font-family: 'Poetsen_One', serif;
     color: black;
-    text-shadow: 4px 4px 4px #aaa;
+    text-shadow: 4px 4px 4px #aaa; */
+     background: url("https://cdn.shopify.com/s/files/1/0822/5767/4589/files/Article_du_mois.png?v=1714965601");
 }
 
 .product-card-wrapper .card,
