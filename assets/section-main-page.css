@@ -23,12 +23,4 @@
 }
 .titre-principal {
     font-family: 'Poetsen_One', serif;
-    font-size: 1rem;
-    padding: 10px 30px;
-    margin: 10px auto;
-    width: fit-content;
-    text-align: center;
-    color: black;
-    border: outset 7px black;
-    border-radius: 25px;
 }
