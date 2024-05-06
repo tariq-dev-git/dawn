@@ -3,10 +3,11 @@
     "custom_liquid_UazU3C": {
       "type": "custom-liquid",
       "custom_css": [
-        "div {background: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0822\/5767\/4589\/files\/vecteezy_abstract-colorful-background-with-place-for-text-blurred_9096272.jpg?v=1714956942\"); background-size: 100% 100%;}"
+        "h1 {background: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0822\/5767\/4589\/files\/vecteezy_abstract-colorful-background-with-place-for-text-blurred_9096272.jpg?v=1714956942\"); background-size: 100% 100%;}",
+        "div {height: 100px;}"
       ],
       "settings": {
-        "custom_liquid": "<h1 style=\"text-align: center; color: white;\">L'article du mois de Mai !<\/h1>",
+        "custom_liquid": "<h1 style=\"margin: 0 auto; text-align: center; color: black; width: fit-content !important; border: outset 4px white; padding: 30px 50px 0; line-height: 100%\">L'article du mois de Mai !<\/h1>",
         "color_scheme": "scheme-4",
         "padding_top": 4,
         "padding_bottom": 8
