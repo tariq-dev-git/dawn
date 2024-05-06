@@ -94,16 +94,16 @@
         "view_all_style": "solid",
         "enable_desktop_slider": true,
         "color_scheme": "scheme-2",
-        "image_ratio": "square",
+        "image_ratio": "portrait",
         "image_shape": "parallelogram",
         "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
+        "show_vendor": true,
+        "show_rating": true,
         "quick_add": "none",
         "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 52
       }
     },
     "custom_liquid_DjrA3K": {
