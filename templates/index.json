@@ -6,7 +6,7 @@
 
       ],
       "settings": {
-        "custom_liquid": "<h1 class=\"titre-principal\">Article du mois de Mai<\/h1>",
+        "custom_liquid": "<h1 classname=\"titre-principal\">Article du mois de Mai<\/h1>",
         "color_scheme": "scheme-1",
         "padding_top": 4,
         "padding_bottom": 8
