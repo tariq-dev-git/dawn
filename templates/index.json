@@ -20,7 +20,7 @@
         "text_LCjFaW": {
           "type": "text",
           "settings": {
-            "text": "ZENHOMIE",
+            "text": "{{ section.settings.product.vendor }}",
             "text_style": "uppercase"
           }
         },
