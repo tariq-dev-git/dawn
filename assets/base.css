@@ -9,7 +9,8 @@
 
   .titre-principal {
     font-family: 'Poetsen_One', serif;
-    color: red;
+    color: black;
+    text-shadow: 4px 4px 4px #aaa;
 }
 
 .product-card-wrapper .card,
