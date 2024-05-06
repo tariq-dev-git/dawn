@@ -1,21 +1,5 @@
 {
   "sections": {
-    "17150347404230cd10": {
-      "type": "apps",
-      "blocks": {
-        "easy_zipcode_check_validate_app_block_ha8WkB": {
-          "type": "shopify:\/\/apps\/easy-zipcode-check-validate\/blocks\/app-block\/0aee76b4-6928-4f3f-aff6-81beaca5418d",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "easy_zipcode_check_validate_app_block_ha8WkB"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -177,7 +161,6 @@
     }
   },
   "order": [
-    "17150347404230cd10",
     "main",
     "1714810338b134ac3f",
     "171480786553802615",
