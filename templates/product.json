@@ -65,11 +65,6 @@
           "settings": {
           }
         },
-        "zipcode_validator_by_cc_star_rating_MMwB9A": {
-          "type": "shopify:\/\/apps\/zipcode-validator-by-cc\/blocks\/star_rating\/5e30242c-f9b7-44c6-8319-f87b43734781",
-          "settings": {
-          }
-        },
         "buy_buttons_B76tLf": {
           "type": "buy_buttons",
           "settings": {
@@ -89,7 +84,6 @@
         "tz_trust_badges_payments_icon_shipping_information_yt86RP",
         "variant_picker",
         "quantity_selector",
-        "zipcode_validator_by_cc_star_rating_MMwB9A",
         "buy_buttons_B76tLf"
       ],
       "settings": {
