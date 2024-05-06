@@ -26,6 +26,9 @@
         "subtotal",
         "buttons"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "color_scheme": "",
         "padding_top": 40,
