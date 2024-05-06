@@ -4,7 +4,7 @@
       "type": "custom-liquid",
       "custom_css": [
         "div {height: 170px; width: 100%; margin: auto; background: black;}",
-        "@media screen and (max-width: 450px) {div div {background: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0822\/5767\/4589\/files\/Design_sans_titre.png?v=1714967915\"); }}",
+        "@media screen and (min-width: 750px) {div div {background: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0822\/5767\/4589\/files\/Design_sans_titre.png?v=1714967915\"); }}",
         "div div {\/* height: 160px; *\/ max-width: 1200px; min-width: 100%; margin: auto; background: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0822\/5767\/4589\/files\/Article_du_mois.png?v=1714965601\"); background-repeat: no-repeat; background-size: contain;}"
       ],
       "settings": {
