@@ -146,34 +146,9 @@
         "settings": {
         }
       },
-      "3842503713604335150": {
-        "type": "shopify:\/\/apps\/vify-order-printer\/blocks\/invoice_download_embed\/8e413796-b0ed-4419-ae4e-893123b931a9",
-        "disabled": true,
-        "settings": {
-          "icon": true,
-          "label": "Download PDF Invoice",
-          "fontSize": 16,
-          "align": "center",
-          "singleLine": false,
-          "autoDetectLanguage": false,
-          "language": "en",
-          "color": "#ffffff",
-          "bgColor": "#1a7bff",
-          "marginTop": 10,
-          "marginBottom": 10,
-          "marginLeft": 10,
-          "marginRight": 10
-        }
-      },
       "5134484470793087125": {
         "type": "shopify:\/\/apps\/vitals\/blocks\/app-embed\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
         "disabled": false,
-        "settings": {
-        }
-      },
-      "17015914527487215419": {
-        "type": "shopify:\/\/apps\/social-bar-social-media-icons\/blocks\/app-embed-block\/9fa0e3ae-e886-45de-b5f6-ebc43b943c19",
-        "disabled": true,
         "settings": {
         }
       },
@@ -185,6 +160,12 @@
       },
       "4804304946286255945": {
         "type": "shopify:\/\/apps\/avada-cookie-consent\/blocks\/app-embed\/deacc407-65bc-4a4e-84d9-f90e9e492cf3",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "806993175287456481": {
+        "type": "shopify:\/\/apps\/zox-delivery-check\/blocks\/widgetmodal\/8f113172-96a1-4cb7-8226-cd8f9d4d37cd",
         "disabled": false,
         "settings": {
         }
