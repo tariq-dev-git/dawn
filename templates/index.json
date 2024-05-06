@@ -6,8 +6,8 @@
         "h1 {background: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0822\/5767\/4589\/files\/vecteezy_abstract-colorful-background-with-place-for-text-blurred_9096272.jpg?v=1714956942\"); background-size: 100% 100%;}"
       ],
       "settings": {
-        "custom_liquid": "<h1 style=\"text-align: center; color: black; border: outset 4px white; padding: 30px 50px 0;\">L'article du mois de Mai !<\/h1>",
-        "color_scheme": "scheme-4",
+        "custom_liquid": "<h1 class=\"titre-principal\">Article du mois de Mai<\/h1>",
+        "color_scheme": "scheme-2",
         "padding_top": 4,
         "padding_bottom": 8
       }
