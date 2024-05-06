@@ -8,7 +8,7 @@
         "div div {\/* height: 160px; *\/ max-width: 1200px; min-width: 100%; margin: auto; background: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0822\/5767\/4589\/files\/Article_du_mois.png?v=1714965601\"); background-repeat: no-repeat; background-size: contain;}"
       ],
       "settings": {
-        "custom_liquid": "<div><div><\/div><\/div>",
+        "custom_liquid": "<div><div class=\"annonce\"><\/div><\/div>",
         "color_scheme": "scheme-4",
         "padding_top": 4,
         "padding_bottom": 8
