@@ -111,7 +111,7 @@
       "custom_css": [
         "div {height: 160px; width: 100%; margin: auto; background: black;}",
         "div div {background: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0822\/5767\/4589\/files\/top-articles-grand.png?v=1714972204\"); max-width: 1200px; margin: auto; background-repeat: no-repeat;}",
-        "@media screen and (max-width: 1199px) {div div {background: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0822\/5767\/4589\/files\/top-articles-mini.png?v=1714972203\"); max-width: 420px; background-position-x: -30px; padding-top: 5px; }}"
+        "@media screen and (max-width: 1199px) {div div {background: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0822\/5767\/4589\/files\/top-articles-mini.png?v=1714972203\"); max-width: 420px; padding-top: 5px; }}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"div-annonce2\"><div class=\"annonce2\"><\/div><\/div>",
