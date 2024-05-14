@@ -1,8 +1,0 @@
-{
-  "parent": "search.json",
-  "context": {
-    "market": "fr"
-  },
-  "sections": {
-  }
-}
